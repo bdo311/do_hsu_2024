@@ -1,0 +1,13 @@
+Network,Annotation
+MyList,GO:0022613|ribonucleoprotein complex biogenesis|-88.1;GO:0042254|ribosome biogenesis|-82.5;R-HSA-8953854|Metabolism of RNA|-77.6
+MyList_MCODE_ALL,GO:0042254|ribosome biogenesis|-92.2;GO:0022613|ribonucleoprotein complex biogenesis|-92.2;R-HSA-8953854|Metabolism of RNA|-82.1
+MyList_SUB1_MCODE_1,"CORUM:230|Mediator complex|-23.9;R-HSA-69242|S Phase|-21.6;R-HSA-69278|Cell Cycle, Mitotic|-21.0"
+MyList_SUB1_MCODE_2,R-HSA-5419276|Mitochondrial translation termination|-48.7;R-HSA-5389840|Mitochondrial translation elongation|-48.7;R-HSA-5368286|Mitochondrial translation initiation|-48.7
+MyList_SUB1_MCODE_3,R-HSA-8868773|rRNA processing in the nucleus and cytosol|-91.2;R-HSA-72312|rRNA processing|-90.2;R-HSA-6791226|Major pathway of rRNA processing in the nucleolus and cytosol|-89.1
+MyList_SUB1_MCODE_4,"CORUM:6664|STAGA complex, SPT3-linked|-18.3;R-HSA-1640170|Cell Cycle|-16.8;CORUM:6643|SAGA complex, GCN5-linked|-15.5"
+MyList_SUB1_MCODE_5,R-HSA-1640170|Cell Cycle|-14.1;R-HSA-6807505|RNA polymerase II transcribes snRNA genes|-11.7;R-HSA-69620|Cell Cycle Checkpoints|-10.5
+MyList_SUB1_MCODE_6,R-HSA-8941856|RUNX3 regulates NOTCH signaling|-7.0;R-HSA-210744|Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells|-6.8;GO:0018205|peptidyl-lysine modification|-6.8
+MyList_SUB1_MCODE_7,R-HSA-3700989|Transcriptional Regulation by TP53|-5.4;GO:0043488|regulation of mRNA stability|-4.8;GO:0061013|regulation of mRNA catabolic process|-4.7
+MyList_SUB1_MCODE_8,GO:0042254|ribosome biogenesis|-12.5;GO:0022613|ribonucleoprotein complex biogenesis|-11.2;GO:0006364|rRNA processing|-10.9
+MyList_SUB1_MCODE_10,R-HSA-8939243|RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known|-11.0;R-HSA-8878171|Transcriptional regulation by RUNX1|-10.5;CORUM:564|BAF complex|-9.9
+MyList_SUB1_MCODE_11,M279|PID RB 1PATHWAY|-8.0;R-HSA-2262752|Cellular responses to stress|-4.8;R-HSA-8953897|Cellular responses to stimuli|-4.8

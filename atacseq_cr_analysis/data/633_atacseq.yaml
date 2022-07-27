@@ -1,0 +1,19 @@
+---
+# directories
+result_dir:  results/ # should be kept
+working_dir: temp/    # can be removed (temporary files)
+fastq_dir: "/home/briando/data/files/geo_submission_apr2021/atacseq/"
+
+# samples to condition
+sample_sheet: config/633_atacseq_sample_sheet.csv
+
+######
+# bowtie2
+######
+
+threads: 10
+genome_index: "/home/briando/data/genomes/mm10/bowtie2_index/mm10"
+chromsize: "/home/briando/data/genomes/mm10/mm10.chrom.sizes"
+blacklist: "/home/briando/data/genomes/mm10/mm10.blacklist.bed"
+macs2_genome_size: "mm"
+peak_name: "633"

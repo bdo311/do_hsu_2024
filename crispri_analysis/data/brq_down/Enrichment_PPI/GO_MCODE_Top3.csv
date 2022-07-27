@@ -1,0 +1,16 @@
+Network,Annotation
+MyList,GO:0016570|histone modification|-28.9;GO:0018205|peptidyl-lysine modification|-20.2;GO:0016071|mRNA metabolic process|-19.9
+MyList_MCODE_ALL,GO:0016570|histone modification|-39.4;GO:0018205|peptidyl-lysine modification|-28.5;R-HSA-674695|RNA Polymerase II Pre-transcription Events|-25.7
+MyList_SUB1_MCODE_1,R-HSA-674695|RNA Polymerase II Pre-transcription Events|-32.0;GO:0016570|histone modification|-22.1;CORUM:492|DA complex|-19.0
+MyList_SUB1_MCODE_2,CORUM:6470|Set1B complex|-12.1;GO:0018205|peptidyl-lysine modification|-11.4;R-HSA-4839726|Chromatin organization|-11.1
+MyList_SUB1_MCODE_3,M101|PID HDAC CLASSI PATHWAY|-9.2;GO:0018205|peptidyl-lysine modification|-8.5;GO:0016570|histone modification|-7.9
+MyList_SUB1_MCODE_4,R-HSA-72163|mRNA Splicing - Major Pathway|-42.6;R-HSA-72172|mRNA Splicing|-42.2;R-HSA-72203|Processing of Capped Intron-Containing Pre-mRNA|-40.1
+MyList_SUB1_MCODE_5,GO:0006457|protein folding|-8.5;CORUM:1199|Oligosaccharyltransferase complex (Stt3A variant)|-8.4;hsa_M00072|N-glycosylation by oligosaccharyltransferase|-8.1
+MyList_SUB1_MCODE_6,CORUM:302|INO80 chromatin remodeling complex|-10.2;R-HSA-5689603|UCH proteinases|-8.5;R-HSA-5696394|DNA Damage Recognition in GG-NER|-8.2
+MyList_SUB1_MCODE_7,R-HSA-6798695|Neutrophil degranulation|-9.0;GO:0002366|leukocyte activation involved in immune response|-7.5;GO:0002263|cell activation involved in immune response|-7.4
+MyList_SUB1_MCODE_9,R-HSA-446203|Asparagine N-linked glycosylation|-5.4
+MyList_SUB1_MCODE_11,R-HSA-6798695|Neutrophil degranulation|-5.4
+MyList_SUB1_MCODE_12,R-HSA-76066|RNA Polymerase III Transcription Initiation From Type 2 Promoter|-9.2;R-HSA-76061|RNA Polymerase III Transcription Initiation From Type 1 Promoter|-9.1;R-HSA-76046|RNA Polymerase III Transcription Initiation|-8.8
+MyList_SUB1_MCODE_13,CORUM:7291|EIF2B2-EIF2B3-EIF2B4-EIF2B5 complex|-12.1;CORUM:7292|EIF2B1-EIF2B2-EIF2B3-EIF2B4-EIF2B5 complex|-11.7;R-HSA-72731|Recycling of eIF2:GDP|-10.9
+MyList_SUB1_MCODE_14,CORUM:6167|Exocyst complex|-10.9;CORUM:89|Exocyst Sec6/8 complex|-10.9;R-HSA-5620916|VxPx cargo-targeting to cilium|-9.5
+MyList_SUB1_MCODE_16,WP4922|Mitochondrial complex IV assembly|-8.8;ko04260|Cardiac muscle contraction|-7.8;R-HSA-5628897|TP53 Regulates Metabolic Genes|-7.6

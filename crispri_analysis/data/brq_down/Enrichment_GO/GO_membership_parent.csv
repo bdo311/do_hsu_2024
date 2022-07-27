@@ -1,0 +1,20 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-25.947911198829196,GO:0008152,metabolic process,M1,1,GO:0016570 histone modification
+1,-16.17725263248875,GO:0009987,cellular process,M1,1,GO:0006325 chromatin organization
+1,-9.880399621637943,GO:0051179,localization,M1,1,GO:0034504 protein localization to nucleus
+1,-9.166489899513525,GO:0050896,response to stimulus,M1,1,GO:0006974 cellular response to DNA damage stimulus
+1,-8.982813316146471,GO:0050789,regulation of biological process,M1,1,GO:0031056 regulation of histone modification
+1,-8.06670226826414,GO:0048519,negative regulation of biological process,M1,1,GO:1901991 negative regulation of mitotic cell cycle phase transition
+1,-7.491532798290108,GO:0002376,immune system process,M1,1,GO:0030099 myeloid cell differentiation
+1,-7.442365792233192,GO:0065007,biological regulation,M1,1,GO:0031647 regulation of protein stability
+1,-6.689693638624803,GO:0048518,positive regulation of biological process,M1,1,GO:1900182 positive regulation of protein localization to nucleus
+1,-6.241095506767419,GO:0016032,viral process,M1,1,GO:0016032 viral process
+1,-6.183627523993778,GO:0023052,signaling,M1,1,GO:2001242 regulation of intrinsic apoptotic signaling pathway
+1,-5.950679669666224,GO:0032502,developmental process,M1,1,GO:0001701 in utero embryonic development
+1,-5.634079615553044,GO:0040007,growth,M1,1,GO:0040008 regulation of growth
+1,-5.599770182999634,GO:0048511,rhythmic process,M1,1,GO:0007623 circadian rhythm
+1,-3.8294608450515333,GO:0032501,multicellular organismal process,M1,1,GO:0055119 relaxation of cardiac muscle
+1,-3.7389438843423606,GO:0022414,reproductive process,M1,1,GO:0008585 female gonad development
+1,-3.4114461357288453,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0044403 biological process involved in symbiotic interaction
+1,-2.375340410201032,GO:0051704,multi-organism process,M1,1,GO:0007339 binding of sperm to zona pellucida
+1,-2.103239965368734,GO:0022610,biological adhesion,M1,1,GO:1904996 positive regulation of leukocyte adhesion to vascular endothelial cell
