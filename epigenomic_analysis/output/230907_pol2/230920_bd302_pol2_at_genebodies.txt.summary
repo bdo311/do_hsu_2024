@@ -1,0 +1,13 @@
+Status	/home/briando/data/files/220211VanA/mm10/results/bowtie2_bam/ERHoxa9_PolIIS2_DMSO_24h_aligned_sorted_rmdup_noblacklist.bam	/home/briando/data/files/220211VanA/mm10/results/bowtie2_bam/ERHoxa9_PolIIS2_BRQ_1uM_24h_aligned_sorted_rmdup_noblacklist.bam	/home/briando/data/files/220211VanA/mm10/results/bowtie2_bam/ERHoxa9_PolIIS2_E2wd_24h_aligned_sorted_rmdup_noblacklist.bam	/home/briando/data/files/211201Van/results/bowtie2_bam/IgG_dsDNA_Mixed_aligned_sorted_rmdup.bam
+Assigned	8516893	7690804	4746765	1787456
+Unassigned_Unmapped	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0
+Unassigned_Secondary	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0
+Unassigned_NoFeatures	13871836	11590696	8924019	6480914
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0

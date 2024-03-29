@@ -1,0 +1,13 @@
+﻿name,Cell line,Fraction,Timepoint,Treatment,Replicate,filename1,filename2
+THP1_Early_0h_Postsort_r1,THP1,Early,0,HU,1,221202Van_D23-123001_1_sequence.fastq.gz,221202Van_D23-123001_2_sequence.fastq.gz
+THP1_Early_0h_Postsort_r2,THP1,Early,0,HU,1,221202Van_D23-123002_1_sequence.fastq.gz,221202Van_D23-123002_2_sequence.fastq.gz
+THP1_Early_4h_HU_r1,THP1,Early,4,HU,2,221202Van_D23-123003_1_sequence.fastq.gz,221202Van_D23-123003_2_sequence.fastq.gz
+THP1_Early_4h_HU_r2,THP1,Early,4,HU,1,221202Van_D23-123004_1_sequence.fastq.gz,221202Van_D23-123004_2_sequence.fastq.gz
+THP1_Early_8h_HU_r1,THP1,Early,8,HU,2,221202Van_D23-123005_1_sequence.fastq.gz,221202Van_D23-123005_2_sequence.fastq.gz
+THP1_Early_8h_HU_r2,THP1,Early,8,HU,1,221202Van_D23-123006_1_sequence.fastq.gz,221202Van_D23-123006_2_sequence.fastq.gz
+THP1_All_8h_HU_r1,THP1,All,8,HU,2,221202Van_D23-123007_1_sequence.fastq.gz,221202Van_D23-123007_2_sequence.fastq.gz
+THP1_All_8h_HU_r2,THP1,All,8,HU,1,221202Van_D23-123008_1_sequence.fastq.gz,221202Van_D23-123008_2_sequence.fastq.gz
+THP1_Early_8h_Veh_r1,THP1,Early,8,Veh,2,221202Van_D23-123009_1_sequence.fastq.gz,221202Van_D23-123009_2_sequence.fastq.gz
+THP1_Early_8h_Veh_r2,THP1,Early,8,Veh,1,221202Van_D23-123010_1_sequence.fastq.gz,221202Van_D23-123010_2_sequence.fastq.gz
+THP1_All_8h_Veh_r1,THP1,All,8,Veh,2,221202Van_D23-123011_1_sequence.fastq.gz,221202Van_D23-123011_2_sequence.fastq.gz
+THP1_All_8h_Veh_r2,THP1,All,8,Veh,1,221202Van_D23-123012_1_sequence.fastq.gz,221202Van_D23-123012_2_sequence.fastq.gz

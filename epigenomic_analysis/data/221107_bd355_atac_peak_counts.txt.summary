@@ -1,0 +1,13 @@
+Status	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgNTC_DMSO_rep1_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgNTC_DMSO_rep2_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgNTC_E2wd_rep1_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgNTC_E2wd_rep2_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgNTC_HU_rep1_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgNTC_HU_rep2_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgSpi1_DMSO_rep1_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgSpi1_DMSO_rep2_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgSpi1_E2wd_rep1_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgSpi1_E2wd_rep2_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgSpi1_HU_rep1_aligned_reads_sorted_nodup_noblacklist_noM.bam	/home/briando/data/files/221028Van/results/bowtie2_bam/633_sgSpi1_HU_rep2_aligned_reads_sorted_nodup_noblacklist_noM.bam
+Assigned	5858767	8233099	7365655	7827898	9149301	6892822	7714966	6477960	8358250	4502591	9368080	9333750
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	4206206	6015417	6070947	7025908	8474138	6769614	5567653	4559341	5607835	2510206	7290462	7277810
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0

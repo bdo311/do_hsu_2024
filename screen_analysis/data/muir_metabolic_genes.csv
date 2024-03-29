@@ -1,0 +1,3493 @@
+﻿Gene Name (Hs),Functional Category,Included in which metabolic enzyme/transporter sets (please add your name if you are adding a new gene)
+ABCA1,ABC Transporter,In RP
+ABCA10,ABC Transporter,In RP
+ABCA12,ABC Transporter,In RP
+ABCA13,ABC Transporter,In RP
+ABCA2,ABC Transporter,In RP
+ABCA3,ABC Transporter,In RP
+ABCA4,ABC Transporter,In RP
+ABCA5,ABC Transporter,In RP
+ABCA6,ABC Transporter,In RP
+ABCA7,ABC Transporter,In RP
+ABCA8,ABC Transporter,In RP
+ABCA9,ABC Transporter,In RP
+ABCB1,ABC Transporter,In RP
+ABCB10,ABC Transporter,In RP
+ABCB11,ABC Transporter,In RP
+ABCB4,ABC Transporter,In RP
+ABCB5,ABC Transporter,In RP
+ABCB6,ABC Transporter,In RP
+ABCB7,ABC Transporter,In RP
+ABCB8,ABC Transporter,In RP
+ABCB9,ABC Transporter,In RP
+ABCC1,ABC Transporter,In RP
+ABCC10,ABC Transporter,In RP
+ABCC11,ABC Transporter,In RP
+ABCC12,ABC Transporter,In RP
+ABCC13,ABC Transporter,In RP
+ABCC2,ABC Transporter,In RP
+ABCC3,ABC Transporter,In RP
+ABCC4,ABC Transporter,In RP
+ABCC5,ABC Transporter,In RP
+ABCC6,ABC Transporter,In RP
+ABCC8,ABC Transporter,In RP
+ABCC9,ABC Transporter,In RP
+ABCD1,ABC Transporter,In RP
+ABCD2,ABC Transporter,In RP
+ABCD3,ABC Transporter,In RP
+ABCD4,ABC Transporter,In RP
+ABCE1,ABC Transporter,In RP
+ABCF1,ABC Transporter,In RP
+ABCF2,ABC Transporter,In RP
+ABCF3,ABC Transporter,In RP
+ABCG1,ABC Transporter,In RP
+ABCG2,ABC Transporter,In RP
+ABCG4,ABC Transporter,In RP
+ABCG5,ABC Transporter,In RP
+ABCG8,ABC Transporter,In RP
+AADAT,Amino Acid,In RP
+ACY1,Amino Acid,In RP
+ACY1L,Amino Acid,In RP
+ACY3,Amino Acid,In RP
+ADC,Amino Acid,In RP
+ADI1,Amino Acid,In RP
+AGPS,Amino Acid,In RP
+AGXT,Amino Acid,In RP
+AGXT2,Amino Acid,In RP
+AGXT2L1,Amino Acid,In RP
+AGXT2L2,Amino Acid,In RP
+ASNS,Amino Acid,In RP
+ASNSD1,Amino Acid,In RP
+ASPA,Amino Acid,In RP
+ASPG,Amino Acid,In RP
+ASRGL1,Amino Acid,In RP
+CCBL1,Amino Acid,In RP
+CCBL2,Amino Acid,In RP
+CRYM,Amino Acid,In RP
+DAO,Amino Acid,In RP
+DDO,Amino Acid,In RP
+GCAT,Amino Acid,In RP
+GCDH,Amino Acid,In RP
+GPT,Amino Acid,In RP
+GPT2,Amino Acid,In RP
+ILVBL,Amino Acid,In RP
+LGSN,Amino Acid,In RP
+PCBD1,Amino Acid,In RP
+PCBD2,Amino Acid,In RP
+SCCPDH,Amino Acid,In RP
+SCLY,Amino Acid,In RP
+SDS,Amino Acid,In RP
+SDSL,Amino Acid,In RP
+SEPHS1,Amino Acid,In RP
+SEPHS2,Amino Acid,In RP
+THNSL1,Amino Acid,In RP
+THNSL2,Amino Acid,In RP
+TMLHE,Amino Acid,In RP
+CHI3L1,Aminosugar,In RP
+CHI3L2,Aminosugar,In RP
+CHIA,Aminosugar,In RP
+CHID1,Aminosugar,In RP
+CHIT1,Aminosugar,In RP
+CMAS,Aminosugar,In RP
+GFPT1,Aminosugar,In RP
+GFPT2,Aminosugar,In RP
+GNE,Aminosugar,In RP
+GNPDA1,Aminosugar,In RP
+GNPDA2,Aminosugar,In RP
+GNPNAT1,Aminosugar,In RP
+GNPTAB,Aminosugar,In RP
+GNPTG,Aminosugar,In RP
+NAGK,Aminosugar,In RP
+NANP,Aminosugar,In RP
+NANS,Aminosugar,In RP
+NPL,Aminosugar,In RP
+PGM3,Aminosugar,In RP
+RENBP,Aminosugar,In RP
+UAP1,Aminosugar,In RP
+UAP1L1,Aminosugar,In RP
+LDHA,Anaerobic Glycolysis,In RP
+LDHAL6A,Anaerobic Glycolysis,In RP
+LDHAL6B,Anaerobic Glycolysis,In RP
+LDHB,Anaerobic Glycolysis,In RP
+LDHC,Anaerobic Glycolysis,In RP
+LDHD,Anaerobic Glycolysis,In RP
+ATP13A1,ATPase,In RP
+ATP13A2,ATPase,In RP
+ATP13A3,ATPase,In RP
+ATP13A4,ATPase,In RP
+ATP13A5,ATPase,In RP
+MMAB,B12,In RP
+MMACHC,B12,In RP
+MMADHC,B12,In RP
+MTRR,B12,In RP
+BCAT1,BCAAs,In RP
+BCAT2,BCAAs,In RP
+BCKDHA,BCAAs,In RP
+BCKDHB,BCAAs,In RP
+DBT,BCAAs,In RP
+HIBADH,BCAAs,In RP
+HIBCH,BCAAs,In RP
+IVD,BCAAs,In RP
+MCCC1,BCAAs,In RP
+MCCC2,BCAAs,In RP
+GCH1,BH4,In RP
+PTS,BH4,In RP
+QDPR,BH4,In RP
+SPR,BH4,In RP
+BAAT,Bile Acid,In RP
+CYP27A1,Bile Acid,In RP
+CYP7A1,Bile Acid,In RP
+CYP7B1,Bile Acid,In RP
+CYP8B1,Bile Acid,In RP
+HSD3B7,Bile Acid,In RP
+FBP1,Carbohydrate Storage,In RP
+FBP2,Carbohydrate Storage,In RP
+G6PC,Carbohydrate Storage,In RP
+G6PC2,Carbohydrate Storage,In RP
+G6PC3,Carbohydrate Storage,In RP
+GBE1,Carbohydrate Storage,In RP
+GYG1,Carbohydrate Storage,In RP
+GYG2,Carbohydrate Storage,In RP
+GYS1,Carbohydrate Storage,In RP
+GYS2,Carbohydrate Storage,In RP
+PCK1,Carbohydrate Storage,In RP
+PCK2,Carbohydrate Storage,In RP
+UGP2,Carbohydrate Storage,In RP
+CYP51A1,Cholesterol,In RP
+DHCR24,Cholesterol,In RP
+DHCR7,Cholesterol,In RP
+EBP,Cholesterol,In RP
+EBPL,Cholesterol,In RP
+FDFT1,Cholesterol,In RP
+FDPS,Cholesterol,In RP
+HSD17B7,Cholesterol,In RP
+LBR,Cholesterol,In RP
+LCAT,Cholesterol,In RP
+LSS,Cholesterol,In RP
+NSDHL,Cholesterol,In RP
+SC4MOL,Cholesterol,In RP
+SC5DL,Cholesterol,In RP
+SQLE,Cholesterol,In RP
+TM7SF2,Cholesterol,In RP
+AACS,CoA,In RP
+ACOT1,CoA,In RP
+ACOT11,CoA,In RP
+ACOT12,CoA,In RP
+ACOT2,CoA,In RP
+ACOT4,CoA,In RP
+ACOT6,CoA,In RP
+ACOT7,CoA,In RP
+ACOT8,CoA,In RP
+ACOT9,CoA,In RP
+COASY,CoA,In RP
+PANK1,CoA,In RP
+PANK2,CoA,In RP
+PANK3,CoA,In RP
+PANK4,CoA,In RP
+PPCDC,CoA,In RP
+PPCS,CoA,In RP
+AHCY,Cofactor,In RP
+AHCYL1,Cofactor,In RP
+AHCYL2,Cofactor,In RP
+BBOX1,Cofactor,In RP
+BTD,Cofactor,In RP
+CEL,Cofactor,In RP
+CRAT,Cofactor,In RP
+CUBN,Cofactor,In RP
+CYP24A1,Cofactor,In RP
+CYP27B1,Cofactor,In RP
+DAK,Cofactor,In RP
+FLAD1,Cofactor,In RP
+FOLH1,Cofactor,In RP
+GPHN,Cofactor,In RP
+HLCS,Cofactor,In RP
+MOCOS,Cofactor,In RP
+MOCS1,Cofactor,In RP
+MOCS2,Cofactor,In RP
+MOCS3,Cofactor,In RP
+NAGS,Cofactor,In RP
+RFK,Cofactor,In RP
+THTPA,Cofactor,In RP
+TPK1,Cofactor,In RP
+VKORC1,Cofactor,In RP
+VKORC1L1,Cofactor,In RP
+MT-ND1,Complex I,In RP
+MT-ND2,Complex I,In RP
+MT-ND3,Complex I,In RP
+MT-ND4,Complex I,In RP
+MT-ND4L,Complex I,In RP
+MT-ND5,Complex I,In RP
+MT-ND6,Complex I,In RP
+NDUFA1,Complex I,In RP
+NDUFA10,Complex I,In RP
+NDUFA11,Complex I,In RP
+NDUFA12,Complex I,In RP
+NDUFA13,Complex I,In RP
+NDUFA2,Complex I,In RP
+NDUFA3,Complex I,In RP
+NDUFA4,Complex I,In RP
+NDUFA4L,Complex I,In RP
+NDUFA4L2,Complex I,In RP
+NDUFA5,Complex I,In RP
+NDUFA6,Complex I,In RP
+NDUFA7,Complex I,In RP
+NDUFA8,Complex I,In RP
+NDUFA9,Complex I,In RP
+NDUFAB1,Complex I,In RP
+NDUFAF1,Complex I,In RP
+NDUFAF2,Complex I,In RP
+NDUFB1,Complex I,In RP
+NDUFB10,Complex I,In RP
+NDUFB11,Complex I,In RP
+NDUFB2,Complex I,In RP
+NDUFB3,Complex I,In RP
+NDUFB4,Complex I,In RP
+NDUFB5,Complex I,In RP
+NDUFB6,Complex I,In RP
+NDUFB7,Complex I,In RP
+NDUFB8,Complex I,In RP
+NDUFB9,Complex I,In RP
+NDUFC1,Complex I,In RP
+NDUFC2,Complex I,In RP
+NDUFS1,Complex I,In RP
+NDUFS2,Complex I,In RP
+NDUFS3,Complex I,In RP
+NDUFS4,Complex I,In RP
+NDUFS5,Complex I,In RP
+NDUFS6,Complex I,In RP
+NDUFS7,Complex I,In RP
+NDUFS8,Complex I,In RP
+NDUFV1,Complex I,In RP
+NDUFV2,Complex I,In RP
+NDUFV3,Complex I,In RP
+SDHA,Complex II,In RP
+SDHB,Complex II,In RP
+SDHC,Complex II,In RP
+SDHD,Complex II,In RP
+CYC1,Complex III,In RP
+CYCS,Complex III,In RP
+MT-CYB,Complex III,In RP
+UCRC,Complex III,In RP
+UQCR,Complex III,In RP
+UQCRB,Complex III,In RP
+UQCRC1,Complex III,In RP
+UQCRC2,Complex III,In RP
+UQCRFS1,Complex III,In RP
+UQCRH,Complex III,In RP
+UQCRQ,Complex III,In RP
+COX1,Complex IV,In RP
+COX10,Complex IV,In RP
+COX11,Complex IV,In RP
+COX15,Complex IV,In RP
+COX16,Complex IV,In RP
+COX17,Complex IV,In RP
+COX18,Complex IV,In RP
+COX19,Complex IV,In RP
+COX2,Complex IV,In RP
+COX3,Complex IV,In RP
+COX4I1,Complex IV,In RP
+COX4I2,Complex IV,In RP
+COX5A,Complex IV,In RP
+COX5B,Complex IV,In RP
+COX6A1,Complex IV,In RP
+COX6A2,Complex IV,In RP
+COX6B1,Complex IV,In RP
+COX6B2,Complex IV,In RP
+COX6C,Complex IV,In RP
+COX7A1,Complex IV,In RP
+COX7A2,Complex IV,In RP
+COX7A2L,Complex IV,In RP
+COX7B,Complex IV,In RP
+COX7B2,Complex IV,In RP
+COX7C,Complex IV,In RP
+COX8A,Complex IV,In RP
+COX8C,Complex IV,In RP
+CKB,Creatine,In RP
+CKBE,Creatine,In RP
+CKM,Creatine,In RP
+CKMT1A ,Creatine,In RP
+CKMT1B,Creatine,In RP
+CKMT2,Creatine,In RP
+GAMT,Creatine,In RP
+GATM,Creatine,In RP
+ADO,Cysteine,In RP
+CBS,Cysteine,In RP
+CDO1,Cysteine,In RP
+CSAD,Cysteine,In RP
+CTH,Cysteine,In RP
+NFS1,Cysteine,In RP
+PCYOX1,Cysteine,In RP
+PCYOX1L,Cysteine,In RP
+SUOX,Cysteine,In RP
+AADAC,Detox,In RP
+AADACL1,Detox,In RP
+AADACL2,Detox,In RP
+AADACL3,Detox,In RP
+AADACL4,Detox,In RP
+AKR7L,Detox,In RP
+BCHE,Detox,In RP
+CAT,Detox,In RP
+CES1,Detox,In RP
+CES2,Detox,In RP
+CES3,Detox,In RP
+CES7,Detox,In RP
+DHDH,Detox,In RP
+DPEP1,Detox,In RP
+DPEP2,Detox,In RP
+DPEP3,Detox,In RP
+EPHX1,Detox,In RP
+EPHX2,Detox,In RP
+FMO1,Detox,In RP
+FMO2,Detox,In RP
+FMO3,Detox,In RP
+FMO4,Detox,In RP
+FMO5,Detox,In RP
+SOD1,Detox,In RP
+SOD2,Detox,In RP
+SOD3,Detox,In RP
+TPMT,Detox,In RP
+UGT1A1,Detox,In RP
+UGT1A10,Detox,In RP
+UGT1A3,Detox,In RP
+UGT1A4,Detox,In RP
+UGT1A5,Detox,In RP
+UGT1A6,Detox,In RP
+UGT1A7,Detox,In RP
+UGT1A8,Detox,In RP
+UGT1A9,Detox,In RP
+UGT2A1,Detox,In RP
+UGT2A2,Detox,In RP
+UGT2A3,Detox,In RP
+UGT2B10,Detox,In RP
+UGT2B11,Detox,In RP
+UGT2B15,Detox,In RP
+UGT2B17,Detox,In RP
+UGT2B28,Detox,In RP
+UGT2B4,Detox,In RP
+UGT2B7,Detox,In RP
+UGT3A1,Detox,In RP
+UGT3A2,Detox,In RP
+ACAA1,Fatty Acid,In RP
+ACAA2,Fatty Acid,In RP
+ACACA,Fatty Acid,In RP
+ACACB,Fatty Acid,In RP
+ACAD10,Fatty Acid,In RP
+ACAD11,Fatty Acid,In RP
+ACAD8,Fatty Acid,In RP
+ACAD9,Fatty Acid,In RP
+ACADL,Fatty Acid,In RP
+ACADM,Fatty Acid,In RP
+ACADS,Fatty Acid,In RP
+ACADSB,Fatty Acid,In RP
+ACADVL,Fatty Acid,In RP
+ACAT1,Fatty Acid,In RP
+ACAT2,Fatty Acid,In RP
+ACBD3,Fatty Acid,In RP
+ACBD4,Fatty Acid,In RP
+ACBD5,Fatty Acid,In RP
+ACBD6,Fatty Acid,In RP
+ACBD7,Fatty Acid,In RP
+ACOX1,Fatty Acid,In RP
+ACOX2,Fatty Acid,In RP
+ACOX3,Fatty Acid,In RP
+ACOXL,Fatty Acid,In RP
+ACSBG1,Fatty Acid,In RP
+ACSBG2,Fatty Acid,In RP
+ACSF2,Fatty Acid,In RP
+ACSF3,Fatty Acid,In RP
+ACSL1,Fatty Acid,In RP
+ACSL3,Fatty Acid,In RP
+ACSL4,Fatty Acid,In RP
+ACSL5,Fatty Acid,In RP
+ACSL6,Fatty Acid,In RP
+ACSM1,Fatty Acid,In RP
+ACSM2A,Fatty Acid,In RP
+ACSM2B,Fatty Acid,In RP
+ACSM3,Fatty Acid,In RP
+ACSM4,Fatty Acid,In RP
+ACSM5,Fatty Acid,In RP
+ACSS1,Fatty Acid,In RP
+ACSS2,Fatty Acid,In RP
+ACSS3,Fatty Acid,In RP
+CLYBL,Itaconate,In RP
+CPT1A,Fatty Acid,In RP
+CPT1B,Fatty Acid,In RP
+CPT1C,Fatty Acid,In RP
+CPT2,Fatty Acid,In RP
+CYP4A11,Fatty Acid,In RP
+CYP4A22,Fatty Acid,In RP
+CYP4B1,Fatty Acid,In RP
+CYP4F11,Fatty Acid,In RP
+CYP4F12,Fatty Acid,In RP
+CYP4F2,Fatty Acid,In RP
+CYP4F22,Fatty Acid,In RP
+CYP4F3,Fatty Acid,In RP
+CYP4F8,Fatty Acid,In RP
+CYP4V2,Fatty Acid,In RP
+CYP4X1,Fatty Acid,In RP
+CYP4Z1,Fatty Acid,In RP
+DCI,Fatty Acid,In RP
+DECR1,Fatty Acid,In RP
+DECR2,Fatty Acid,In RP
+DGAT1,Fatty Acid,In RP
+DGAT2,Fatty Acid,In RP
+DGAT2L3,Fatty Acid,In RP
+DGAT2L4,Fatty Acid,In RP
+DGAT2L6,Fatty Acid,In RP
+DGAT2L7,Fatty Acid,In RP
+ECH1,Fatty Acid,In RP
+ECHDC1,Fatty Acid,In RP
+ECHDC2,Fatty Acid,In RP
+ECHDC3,Fatty Acid,In RP
+ECHS1,Fatty Acid,In RP
+EHHADH,Fatty Acid,In RP
+ELOVL1,Fatty Acid,In RP
+ELOVL2,Fatty Acid,In RP
+ELOVL3,Fatty Acid,In RP
+ELOVL4,Fatty Acid,In RP
+ELOVL5,Fatty Acid,In RP
+ELOVL6,Fatty Acid,In RP
+ELOVL7,Fatty Acid,In RP
+ETFA,Fatty Acid,In RP
+ETFB,Fatty Acid,In RP
+ETFDH,Fatty Acid,In RP
+FA2H,Fatty Acid,In RP
+FAAH,Fatty Acid,In RP
+FAAH2,Fatty Acid,In RP
+FADS1,Fatty Acid,In RP
+FADS2,Fatty Acid,In RP
+FADS3,Fatty Acid,In RP
+FAR1,Fatty Acid,In RP
+FAR2,Fatty Acid,In RP
+FASN,Fatty Acid,In RP
+GPSN2,Fatty Acid,In RP
+HACL1,Fatty Acid,In RP
+HADH,Fatty Acid,In RP
+HADHA,Fatty Acid,In RP
+HADHB,Fatty Acid,In RP
+LIPC,Fatty Acid,In RP
+LIPF,Fatty Acid,In RP
+LIPG,Fatty Acid,In RP
+LIPH,Fatty Acid,In RP
+LIPI,Fatty Acid,In RP
+LIPJ,Fatty Acid,In RP
+LIPK,Fatty Acid,In RP
+LIPM,Fatty Acid,In RP
+LIPN,Fatty Acid,In RP
+LPL,Fatty Acid,In RP
+LPPR2,Fatty Acid,In RP
+MCAT,Fatty Acid,In RP
+MECR,Fatty Acid,In RP
+MGLL,Fatty Acid,In RP
+MLYCD,Fatty Acid,In RP
+MTTP,Fatty Acid,In RP
+OLAH,Fatty Acid,In RP
+OXSM,Fatty Acid,In RP
+PECI,Fatty Acid,In RP
+PECR,Fatty Acid,In RP
+PHYH,Fatty Acid,In RP
+PHYHD1,Fatty Acid,In RP
+PNLIP,Fatty Acid,In RP
+PNLIPRP1,Fatty Acid,In RP
+PNLIPRP2,Fatty Acid,In RP
+PNLIPRP3,Fatty Acid,In RP
+PNPLA1,Fatty Acid,In RP
+PNPLA2,Fatty Acid,In RP
+PNPLA3,Fatty Acid,In RP
+PNPLA4,Fatty Acid,In RP
+PNPLA5,Fatty Acid,In RP
+PNPLA6,Fatty Acid,In RP
+PNPLA7,Fatty Acid,In RP
+PNPLA8,Fatty Acid,In RP
+SCD,Fatty Acid,In RP
+SCD5,Fatty Acid,In RP
+SCP2,Fatty Acid,In RP
+SDR16C6,Fatty Acid,In RP
+SDR39U1,Fatty Acid,In RP
+SDR42E1,Fatty Acid,In RP
+SDR9C7,Fatty Acid,In RP
+DHFR,Folate,In RP
+DHFRL1,Folate,In RP
+FPGS,Folate,In RP
+MTHFD1,Folate,In RP
+MTHFD1L,Folate,In RP
+MTHFD2,Folate,In RP
+MTHFD2L,Folate,In RP
+MTHFR,Folate,In RP
+MTHFS,Folate,In RP
+MTHFSD,Folate,In RP
+SHMT1,Folate,In RP
+SHMT2,Folate,In RP
+ALDH18A1,Glutamate,In RP
+ALDH5A1,Glutamate,In RP
+GAD1,Glutamate,In RP
+GAD2,Glutamate,In RP
+GADL1,Glutamate,In RP
+GLS,Glutamate,In RP
+GLS2,Glutamate,In RP
+GLUD1,Glutamate,In RP
+GLUD2,Glutamate,In RP
+GLUL,Glutamate,In RP
+OAT,Glutamate,In RP
+GCLC,Glutathione,In RP
+GCLM,Glutathione,In RP
+GPX1,Glutathione,In RP
+GPX2,Glutathione,In RP
+GPX3,Glutathione,In RP
+GPX4,Glutathione,In RP
+GPX5,Glutathione,In RP
+GPX6,Glutathione,In RP
+GPX7,Glutathione,In RP
+GPX8,Glutathione,In RP
+GSR,Glutathione,In RP
+GSS,Glutathione,In RP
+GSTA1,Glutathione,In RP
+GSTA2,Glutathione,In RP
+GSTA3,Glutathione,In RP
+GSTA4,Glutathione,In RP
+GSTA5,Glutathione,In RP
+GSTCD,Glutathione,In RP
+GSTK1,Glutathione,In RP
+GSTM1,Glutathione,In RP
+GSTM2,Glutathione,In RP
+GSTM3,Glutathione,In RP
+GSTM4,Glutathione,In RP
+GSTM5,Glutathione,In RP
+GSTO1,Glutathione,In RP
+GSTO2,Glutathione,In RP
+GSTP1,Glutathione,In RP
+GSTT1,Glutathione,In RP
+GSTT2,Glutathione,In RP
+HAGH,Glutathione,In RP
+HAGHL,Glutathione,In RP
+MGST1,Glutathione,In RP
+MGST2,Glutathione,In RP
+MGST3,Glutathione,In RP
+A4GALT,Glycan,In RP
+A4GNT,Glycan,In RP
+ABO,Glycan,In RP
+ALG1,Glycan,In RP
+ALG10,Glycan,In RP
+ALG10B,Glycan,In RP
+ALG11,Glycan,In RP
+ALG12,Glycan,In RP
+ALG13,Glycan,In RP
+ALG14,Glycan,In RP
+ALG2,Glycan,In RP
+ALG3,Glycan,In RP
+ALG5,Glycan,In RP
+ALG6,Glycan,In RP
+ALG8,Glycan,In RP
+ALG9,Glycan,In RP
+B3GALNT1,Glycan,In RP
+B3GALNT2,Glycan,In RP
+B3GALT1,Glycan,In RP
+B3GALT2,Glycan,In RP
+B3GALT4,Glycan,In RP
+B3GALT5,Glycan,In RP
+B3GALT6,Glycan,In RP
+B3GALTL,Glycan,In RP
+B3GAT1,Glycan,In RP
+B3GAT2,Glycan,In RP
+B3GAT3,Glycan,In RP
+B3GNT1,Glycan,In RP
+B3GNT2,Glycan,In RP
+B3GNT3,Glycan,In RP
+B3GNT4,Glycan,In RP
+B3GNT5,Glycan,In RP
+B3GNT6,Glycan,In RP
+B3GNT7,Glycan,In RP
+B3GNT8,Glycan,In RP
+B3GNT9,Glycan,In RP
+B3GNTL1,Glycan,In RP
+B4GALNT1,Glycan,In RP
+B4GALNT2,Glycan,In RP
+B4GALNT3,Glycan,In RP
+B4GALNT4,Glycan,In RP
+B4GALT1,Glycan,In RP
+B4GALT2,Glycan,In RP
+B4GALT3,Glycan,In RP
+B4GALT4,Glycan,In RP
+B4GALT5,Glycan,In RP
+B4GALT6,Glycan,In RP
+B4GALT7,Glycan,In RP
+C1GALT1,Glycan,In RP
+CTBS,Glycan,In RP
+DAD1,Glycan,In RP
+DDOST,Glycan,In RP
+DHDDS,Glycan,In RP
+DOLK,Glycan,In RP
+DOLPP1,Glycan,In RP
+DPAGT1,Glycan,In RP
+FN3K,Glycan,In RP
+FN3KRP,Glycan,In RP
+FUT1,Glycan,In RP
+FUT10,Glycan,In RP
+FUT11,Glycan,In RP
+FUT2,Glycan,In RP
+FUT3,Glycan,In RP
+FUT4,Glycan,In RP
+FUT5,Glycan,In RP
+FUT6,Glycan,In RP
+FUT7,Glycan,In RP
+FUT8,Glycan,In RP
+FUT9,Glycan,In RP
+GALE,Glycan,In RP
+GALNT1,Glycan,In RP
+GALNT10,Glycan,In RP
+GALNT11,Glycan,In RP
+GALNT12,Glycan,In RP
+GALNT13,Glycan,In RP
+GALNT14,Glycan,In RP
+GALNT2,Glycan,In RP
+GALNT3,Glycan,In RP
+GALNT4,Glycan,In RP
+GALNT5,Glycan,In RP
+GALNT6,Glycan,In RP
+GALNT7,Glycan,In RP
+GALNT8,Glycan,In RP
+GALNT9,Glycan,In RP
+GALNTL1,Glycan,In RP
+GALNTL2,Glycan,In RP
+GALNTL4,Glycan,In RP
+GALNTL5,Glycan,In RP
+GALNTL6,Glycan,In RP
+GANAB,Glycan,In RP
+GANC,Glycan,In RP
+GBA,Glycan,In RP
+GBA2,Glycan,In RP
+GBA3,Glycan,In RP
+GBGT1,Glycan,In RP
+GCNT1,Glycan,In RP
+GCNT2,Glycan,In RP
+GCNT3,Glycan,In RP
+GCNT4,Glycan,In RP
+GCNT6,Glycan,In RP
+GCNT7,Glycan,In RP
+GCS1,Glycan,In RP
+GLT1D1,Glycan,In RP
+GLT25D1,Glycan,In RP
+GLT25D2,Glycan,In RP
+GLT6D1,Glycan,In RP
+GLT8D1,Glycan,In RP
+GLT8D2,Glycan,In RP
+GLT8D3,Glycan,In RP
+GLT8D4,Glycan,In RP
+GTDC1,Glycan,In RP
+GYLTL1B,Glycan,In RP
+HAS1,Glycan,In RP
+HAS2,Glycan,In RP
+HAS3,Glycan,In RP
+LARGE,Glycan,In RP
+LYCAT,Glycan,In RP
+MFNG,Glycan,In RP
+MGAT1,Glycan,In RP
+MGAT2,Glycan,In RP
+MGAT3,Glycan,In RP
+MGAT4A,Glycan,In RP
+MGAT4B,Glycan,In RP
+MGAT4C,Glycan,In RP
+MGAT5,Glycan,In RP
+MGAT5B,Glycan,In RP
+NAGA,Glycan,In RP
+NAGPA,Glycan,In RP
+POFUT1,Glycan,In RP
+POFUT2,Glycan,In RP
+POMGNT1,Glycan,In RP
+POMT1,Glycan,In RP
+POMT2,Glycan,In RP
+ST3GAL1,Glycan,In RP
+ST3GAL2,Glycan,In RP
+ST3GAL3,Glycan,In RP
+ST3GAL4,Glycan,In RP
+ST3GAL5,Glycan,In RP
+ST3GAL6,Glycan,In RP
+ST6GAL1,Glycan,In RP
+ST6GAL2,Glycan,In RP
+ST6GALNAC1,Glycan,In RP
+ST6GALNAC2,Glycan,In RP
+ST6GALNAC3,Glycan,In RP
+ST6GALNAC4,Glycan,In RP
+ST6GALNAC5,Glycan,In RP
+ST6GALNAC6,Glycan,In RP
+ST8SIA1,Glycan,In RP
+ST8SIA2,Glycan,In RP
+ST8SIA3,Glycan,In RP
+ST8SIA4,Glycan,In RP
+ST8SIA5,Glycan,In RP
+ST8SIA6,Glycan,In RP
+WBSCR17,Glycan,In RP
+XYLT1,Glycan,In RP
+XYLT2,Glycan,In RP
+DPM1,Glycan Anchor,In RP
+DPM2,Glycan Anchor,In RP
+DPM3,Glycan Anchor,In RP
+GPLD1,Glycan Anchor,In RP
+PIGA,Glycan Anchor,In RP
+PIGB,Glycan Anchor,In RP
+PIGC,Glycan Anchor,In RP
+PIGF,Glycan Anchor,In RP
+PIGG,Glycan Anchor,In RP
+PIGH,Glycan Anchor,In RP
+PIGK,Glycan Anchor,In RP
+PIGL,Glycan Anchor,In RP
+PIGM,Glycan Anchor,In RP
+PIGN,Glycan Anchor,In RP
+PIGO,Glycan Anchor,In RP
+PIGP,Glycan Anchor,In RP
+PIGQ,Glycan Anchor,In RP
+PIGS,Glycan Anchor,In RP
+PIGT,Glycan Anchor,In RP
+PIGU,Glycan Anchor,In RP
+PIGV,Glycan Anchor,In RP
+PIGW,Glycan Anchor,In RP
+PIGX,Glycan Anchor,In RP
+PIGY,Glycan Anchor,In RP
+PIGZ,Glycan Anchor,In RP
+AGA,Glycan Degradation,In RP
+EDEM1,Glycan Degradation,In RP
+EDEM2,Glycan Degradation,In RP
+EDEM3,Glycan Degradation,In RP
+FLJ21865,Glycan Degradation,In RP
+FUCA1,Glycan Degradation,In RP
+FUCA2,Glycan Degradation,In RP
+GALNS,Glycan Degradation,In RP
+GLA,Glycan Degradation,In RP
+GLB1,Glycan Degradation,In RP
+GLB1L,Glycan Degradation,In RP
+GLB1L2,Glycan Degradation,In RP
+GLB1L3,Glycan Degradation,In RP
+GNS,Glycan Degradation,In RP
+GUSB,Glycan Degradation,In RP
+HEXA,Glycan Degradation,In RP
+HEXB,Glycan Degradation,In RP
+HEXDC,Glycan Degradation,In RP
+HYAL1,Glycan Degradation,In RP
+HYAL2,Glycan Degradation,In RP
+HYAL3,Glycan Degradation,In RP
+HYAL4,Glycan Degradation,In RP
+IDS,Glycan Degradation,In RP
+IDUA,Glycan Degradation,In RP
+LYG1,Glycan Degradation,In RP
+LYZ,Glycan Degradation,In RP
+LYZL1,Glycan Degradation,In RP
+LYZL2,Glycan Degradation,In RP
+LYZL4,Glycan Degradation,In RP
+LYZL6,Glycan Degradation,In RP
+MAN1A1,Glycan Degradation,In RP
+MAN1A2,Glycan Degradation,In RP
+MAN1B1,Glycan Degradation,In RP
+MAN1C1,Glycan Degradation,In RP
+MAN2A1,Glycan Degradation,In RP
+MAN2A2,Glycan Degradation,In RP
+MAN2B1,Glycan Degradation,In RP
+MAN2B2,Glycan Degradation,In RP
+MAN2C1,Glycan Degradation,In RP
+MANBA,Glycan Degradation,In RP
+MANBAL,Glycan Degradation,In RP
+MANEA,Glycan Degradation,In RP
+MANEAL,Glycan Degradation,In RP
+NAGLU,Glycan Degradation,In RP
+NEU1,Glycan Degradation,In RP
+NEU2,Glycan Degradation,In RP
+NEU3,Glycan Degradation,In RP
+NEU4,Glycan Degradation,In RP
+CHPF,Glycan Sulfate,In RP
+CHPF2,Glycan Sulfate,In RP
+CHST1,Glycan Sulfate,In RP
+CHST10,Glycan Sulfate,In RP
+CHST11,Glycan Sulfate,In RP
+CHST12,Glycan Sulfate,In RP
+CHST13,Glycan Sulfate,In RP
+CHST14,Glycan Sulfate,In RP
+CHST2,Glycan Sulfate,In RP
+CHST3,Glycan Sulfate,In RP
+CHST4,Glycan Sulfate,In RP
+CHST5,Glycan Sulfate,In RP
+CHST6,Glycan Sulfate,In RP
+CHST7,Glycan Sulfate,In RP
+CHST8,Glycan Sulfate,In RP
+CHST9,Glycan Sulfate,In RP
+CHSY1,Glycan Sulfate,In RP
+CHSY3,Glycan Sulfate,In RP
+CSGALNACT1,Glycan Sulfate,In RP
+CSGALNACT2,Glycan Sulfate,In RP
+GAL3ST1,Glycan Sulfate,In RP
+GAL3ST2,Glycan Sulfate,In RP
+GAL3ST3,Glycan Sulfate,In RP
+GAL3ST4,Glycan Sulfate,In RP
+SGSH,Glycan Sulfate,In RP
+SULF1,Glycan Sulfate,In RP
+SULF2,Glycan Sulfate,In RP
+UST,Glycan Sulfate,In RP
+AMT,Glycine,In RP
+BHMT,Glycine,In RP
+BHMT2,Glycine,In RP
+DMGDH,Glycine,In RP
+GCSH,Glycine,In RP
+GLDC,Glycine,In RP
+SARDH,Glycine,In RP
+ADPGK,Glycolysis,In RP
+ALDOA,Glycolysis,In RP
+ALDOB,Glycolysis,In RP
+ALDOC,Glycolysis,In RP
+BPGM,Glycolysis,In RP
+DLAT,Glycolysis,In RP
+ENO1,Glycolysis,In RP
+ENO2,Glycolysis,In RP
+ENO3,Glycolysis,In RP
+GAPDH,Glycolysis,In RP
+GAPDHS,Glycolysis,In RP
+GCK,Glycolysis,In RP
+GPI,Glycolysis,In RP
+HK1,Glycolysis,In RP
+HK2,Glycolysis,In RP
+HK3,Glycolysis,In RP
+HKDC1,Glycolysis,In RP
+PDHA1,Glycolysis,In RP
+PDHA2,Glycolysis,In RP
+PDHB,Glycolysis,In RP
+PDHX,Glycolysis,In RP
+PFKFB1,Glycolysis,In RP
+PFKFB2,Glycolysis,In RP
+PFKFB3,Glycolysis,In RP
+PFKFB4,Glycolysis,In RP
+PFKL,Glycolysis,In RP
+PFKM,Glycolysis,In RP
+PFKP,Glycolysis,In RP
+PGAM1,Glycolysis,In RP
+PGAM2,Glycolysis,In RP
+PGAM4,Glycolysis,In RP
+PGAM5,Glycolysis,In RP
+PGK1,Glycolysis,In RP
+PGK2,Glycolysis,In RP
+PGM1,Glycolysis,In RP
+PGM2,Glycolysis,In RP
+PGM2L1,Glycolysis,In RP
+PGM5,Glycolysis,In RP
+PKLR,Glycolysis,In RP
+PKM2,Glycolysis,In RP
+TPI1,Glycolysis,In RP
+GLO1,Glyoxylate,In RP
+GLOD4,Glyoxylate,In RP
+GLOD5,Glyoxylate,In RP
+HAO1,Glyoxylate,In RP
+HAO2,Glyoxylate,In RP
+EXT1,Heparin Sulfate,In RP
+EXT2,Heparin Sulfate,In RP
+EXT3,Heparin Sulfate,In RP
+EXTL1,Heparin Sulfate,In RP
+EXTL2,Heparin Sulfate,In RP
+EXTL3,Heparin Sulfate,In RP
+GLCE,Heparin Sulfate,In RP
+HGSNAT,Heparin Sulfate,In RP
+HPSE,Heparin Sulfate,In RP
+HPSE2,Heparin Sulfate,In RP
+HS2ST1,Heparin Sulfate,In RP
+HS3ST1,Heparin Sulfate,In RP
+HS3ST2,Heparin Sulfate,In RP
+HS3ST3A1,Heparin Sulfate,In RP
+HS3ST3B1,Heparin Sulfate,In RP
+HS3ST4,Heparin Sulfate,In RP
+HS3ST5,Heparin Sulfate,In RP
+HS3ST6,Heparin Sulfate,In RP
+HS6ST1,Heparin Sulfate,In RP
+HS6ST2,Heparin Sulfate,In RP
+HS6ST3,Heparin Sulfate,In RP
+NDST1,Heparin Sulfate,In RP
+NDST2,Heparin Sulfate,In RP
+NDST3,Heparin Sulfate,In RP
+NDST4,Heparin Sulfate,In RP
+AMDHD1,Histidine,In RP
+AMDHD2,Histidine,In RP
+FTCD,Histidine,In RP
+HAL,Histidine,In RP
+HDC,Histidine,In RP
+HNMT,Histidine,In RP
+UROC1,Histidine,In RP
+AANAT,Hormone,In RP
+ACE,Hormone,In RP
+ACE2,Hormone,In RP
+ALOX12,Hormone,In RP
+ALOX12B,Hormone,In RP
+ALOX15,Hormone,In RP
+ALOX15B,Hormone,In RP
+ALOX5,Hormone,In RP
+ALOX5AP,Hormone,In RP
+ALOXE3,Hormone,In RP
+AOF1,Hormone,In RP
+AOF2,Hormone,In RP
+ASMT,Hormone,In RP
+ASMTL,Hormone,In RP
+CYP20A1,Hormone,In RP
+DIO1,Hormone,In RP
+DIO2,Hormone,In RP
+DIO3,Hormone,In RP
+HPGD,Hormone,In RP
+IYD,Hormone,In RP
+LNPEP,Hormone,In RP
+LTA4H,Hormone,In RP
+LTC4S,Hormone,In RP
+MME,Hormone,In RP
+MMEL1,Hormone,In RP
+PGDS,Hormone,In RP
+PTGDS,Hormone,In RP
+PTGES,Hormone,In RP
+PTGES2,Hormone,In RP
+PTGES3,Hormone,In RP
+PTGIS,Hormone,In RP
+PTGR1,Hormone,In RP
+PTGR2,Hormone,In RP
+PTGS1,Hormone,In RP
+PTGS2,Hormone,In RP
+TBXAS1,Hormone,In RP
+TPO,Hormone,In RP
+CDIPT,Inositol Phosphate,In RP
+FIG4,Inositol Phosphate,In RP
+IMPA1,Inositol Phosphate,In RP
+IMPA2,Inositol Phosphate,In RP
+IMPAD1,Inositol Phosphate,In RP
+INPP1,Inositol Phosphate,In RP
+INPP4A,Inositol Phosphate,In RP
+INPP4B,Inositol Phosphate,In RP
+INPP5A,Inositol Phosphate,In RP
+INPP5B,Inositol Phosphate,In RP
+INPP5D,Inositol Phosphate,In RP
+INPP5E,Inositol Phosphate,In RP
+INPP5F,Inositol Phosphate,In RP
+INPP5J,Inositol Phosphate,In RP
+INPP5K,Inositol Phosphate,In RP
+INPPL1,Inositol Phosphate,In RP
+IP6K1,Inositol Phosphate,In RP
+IP6K2,Inositol Phosphate,In RP
+IP6K3,Inositol Phosphate,In RP
+IPMK,Inositol Phosphate,In RP
+IPPK,Inositol Phosphate,In RP
+ISYNA1,Inositol Phosphate,In RP
+ITPK1,Inositol Phosphate,In RP
+ITPKA,Inositol Phosphate,In RP
+ITPKB,Inositol Phosphate,In RP
+ITPKC,Inositol Phosphate,In RP
+MINPP1,Inositol Phosphate,In RP
+MIOX,Inositol Phosphate,In RP
+PGAP1,Inositol Phosphate,In RP
+PI4K2A,Inositol Phosphate,In RP
+PI4K2B,Inositol Phosphate,In RP
+PI4KA,Inositol Phosphate,In RP
+PI4KB,Inositol Phosphate,In RP
+PIK3C2A,Inositol Phosphate,In RP
+PIK3C2B,Inositol Phosphate,In RP
+PIK3C2G,Inositol Phosphate,In RP
+PIK3C3,Inositol Phosphate,In RP
+PIK3CA,Inositol Phosphate,In RP
+PIK3CB,Inositol Phosphate,In RP
+PIK3CD,Inositol Phosphate,In RP
+PIK3CG,Inositol Phosphate,In RP
+PIK3R1,Inositol Phosphate,In RP
+PIK3R2,Inositol Phosphate,In RP
+PIK3R3,Inositol Phosphate,In RP
+PIK3R4,Inositol Phosphate,In RP
+PIK3R5,Inositol Phosphate,In RP
+PIK3R6,Inositol Phosphate,In RP
+PIP4K2A,Inositol Phosphate,In RP
+PIP4K2B,Inositol Phosphate,In RP
+PIP4K2C,Inositol Phosphate,In RP
+PIP5K1A,Inositol Phosphate,In RP
+PIP5K1B,Inositol Phosphate,In RP
+PIP5K1C,Inositol Phosphate,In RP
+PIP5K3,Inositol Phosphate,In RP
+PIP5KL1,Inositol Phosphate,In RP
+PTEN,Inositol Phosphate,In RP
+SYNJ1,Inositol Phosphate,In RP
+SYNJ2,Inositol Phosphate,In RP
+ATP11A,Ion Transport,In RP
+ATP11B,Ion Transport,In RP
+ATP11C,Ion Transport,In RP
+ATP12A,Ion Transport,In RP
+ATP1A1,Ion Transport,In RP
+ATP1A2,Ion Transport,In RP
+ATP1A3,Ion Transport,In RP
+ATP1A4,Ion Transport,In RP
+ATP1B1,Ion Transport,In RP
+ATP1B2,Ion Transport,In RP
+ATP1B3,Ion Transport,In RP
+ATP1B4,Ion Transport,In RP
+ATP2A1,Ion Transport,In RP
+ATP2A2,Ion Transport,In RP
+ATP2A3,Ion Transport,In RP
+ATP2B1,Ion Transport,In RP
+ATP2B2,Ion Transport,In RP
+ATP2B3,Ion Transport,In RP
+ATP2B4,Ion Transport,In RP
+ATP2C1,Ion Transport,In RP
+ATP2C2,Ion Transport,In RP
+ATP3,Ion Transport,In RP
+ATP4A,Ion Transport,In RP
+ATP4B,Ion Transport,In RP
+ATP7A,Ion Transport,In RP
+ATP7B,Ion Transport,In RP
+BEST1,Ion Transport,In RP
+BEST2,Ion Transport,In RP
+BEST3,Ion Transport,In RP
+BEST4,Ion Transport,In RP
+BSND,Ion Transport,In RP
+C14orf68,Ion Transport,In RP
+C20orf59,Ion Transport,In RP
+C6orf192,Ion Transport,In RP
+CACNA1A,Ion Transport,In RP
+CACNA1B,Ion Transport,In RP
+CACNA1C,Ion Transport,In RP
+CACNA1D,Ion Transport,In RP
+CACNA1E,Ion Transport,In RP
+CACNA1F,Ion Transport,In RP
+CACNA1G,Ion Transport,In RP
+CACNA1H,Ion Transport,In RP
+CACNA1I,Ion Transport,In RP
+CACNA1S,Ion Transport,In RP
+CACNA2D1,Ion Transport,In RP
+CACNA2D2,Ion Transport,In RP
+CACNA2D3,Ion Transport,In RP
+CACNA2D4,Ion Transport,In RP
+CACNB1,Ion Transport,In RP
+CACNB2,Ion Transport,In RP
+CACNB3,Ion Transport,In RP
+CACNB4,Ion Transport,In RP
+CACNG1,Ion Transport,In RP
+CACNG2,Ion Transport,In RP
+CACNG3,Ion Transport,In RP
+CACNG4,Ion Transport,In RP
+CACNG5,Ion Transport,In RP
+CACNG6,Ion Transport,In RP
+CACNG7,Ion Transport,In RP
+CACNG8,Ion Transport,In RP
+CATSPER1,Ion Transport,In RP
+CATSPER2,Ion Transport,In RP
+CATSPER3,Ion Transport,In RP
+CATSPERB,Ion Transport,In RP
+CFTR,Ion Transport,In RP
+CHRNA1,Ion Transport,In RP
+CHRNA10,Ion Transport,In RP
+CHRNA2,Ion Transport,In RP
+CHRNA3,Ion Transport,In RP
+CHRNA4,Ion Transport,In RP
+CHRNA5,Ion Transport,In RP
+CHRNA6,Ion Transport,In RP
+CHRNA7,Ion Transport,In RP
+CHRNA9,Ion Transport,In RP
+CHRNB1,Ion Transport,In RP
+CHRNB2,Ion Transport,In RP
+CHRNB3,Ion Transport,In RP
+CHRNB4,Ion Transport,In RP
+CHRND,Ion Transport,In RP
+CHRNE,Ion Transport,In RP
+CHRNG,Ion Transport,In RP
+CLCA1,Ion Transport,In RP
+CLCA2,Ion Transport,In RP
+CLCA3,Ion Transport,In RP
+CLCA4,Ion Transport,In RP
+CLCC1,Ion Transport,In RP
+CLCN1,Ion Transport,In RP
+CLCN2,Ion Transport,In RP
+CLCN3,Ion Transport,In RP
+CLCN4,Ion Transport,In RP
+CLCN5,Ion Transport,In RP
+CLCN6,Ion Transport,In RP
+CLCN7,Ion Transport,In RP
+CLCNKA,Ion Transport,In RP
+CLCNKB,Ion Transport,In RP
+CLIC1,Ion Transport,In RP
+CLIC2,Ion Transport,In RP
+CLIC3,Ion Transport,In RP
+CLIC4,Ion Transport,In RP
+CLIC5,Ion Transport,In RP
+CLIC6,Ion Transport,In RP
+CNGA1,Ion Transport,In RP
+CNGA2,Ion Transport,In RP
+CNGA3,Ion Transport,In RP
+CNGA4,Ion Transport,In RP
+CNGB1,Ion Transport,In RP
+CNGB3,Ion Transport,In RP
+GABRA1,Ion Transport,In RP
+GABRA2,Ion Transport,In RP
+GABRA3,Ion Transport,In RP
+GABRA4,Ion Transport,In RP
+GABRA5,Ion Transport,In RP
+GABRA6,Ion Transport,In RP
+GABRB1,Ion Transport,In RP
+GABRB2,Ion Transport,In RP
+GABRB3,Ion Transport,In RP
+GABRD,Ion Transport,In RP
+GABRE,Ion Transport,In RP
+GABRG1,Ion Transport,In RP
+GABRG2,Ion Transport,In RP
+GABRG3,Ion Transport,In RP
+GABRP,Ion Transport,In RP
+GABRQ,Ion Transport,In RP
+GABRR1,Ion Transport,In RP
+GABRR2,Ion Transport,In RP
+GABRR3,Ion Transport,In RP
+GLRA1,Ion Transport,In RP
+GLRA2,Ion Transport,In RP
+GLRA3,Ion Transport,In RP
+GLRA4,Ion Transport,In RP
+GLRB,Ion Transport,In RP
+GRIA1,Ion Transport,In RP
+GRIA2,Ion Transport,In RP
+GRIA3,Ion Transport,In RP
+GRIA4,Ion Transport,In RP
+GRID1,Ion Transport,In RP
+GRID2,Ion Transport,In RP
+GRIK1,Ion Transport,In RP
+GRIK2,Ion Transport,In RP
+GRIK3,Ion Transport,In RP
+GRIK4,Ion Transport,In RP
+GRIK5,Ion Transport,In RP
+GRIN1,Ion Transport,In RP
+GRIN2A,Ion Transport,In RP
+GRIN2B,Ion Transport,In RP
+GRIN2C,Ion Transport,In RP
+GRIN2D,Ion Transport,In RP
+GRIN3A,Ion Transport,In RP
+GRIN3B,Ion Transport,In RP
+HCN1,Ion Transport,In RP
+HCN2,Ion Transport,In RP
+HCN3,Ion Transport,In RP
+HCN4,Ion Transport,In RP
+HTR3A,Ion Transport,In RP
+HTR3B,Ion Transport,In RP
+HTR3C,Ion Transport,In RP
+HTR3D,Ion Transport,In RP
+HTR3E,Ion Transport,In RP
+ITPR1,Ion Transport,In RP
+ITPR2,Ion Transport,In RP
+ITPR3,Ion Transport,In RP
+KCNA1,Ion Transport,In RP
+KCNA10,Ion Transport,In RP
+KCNA2,Ion Transport,In RP
+KCNA3,Ion Transport,In RP
+KCNA4,Ion Transport,In RP
+KCNA5,Ion Transport,In RP
+KCNA6,Ion Transport,In RP
+KCNA7,Ion Transport,In RP
+KCNAB1,Ion Transport,In RP
+KCNAB2,Ion Transport,In RP
+KCNAB3,Ion Transport,In RP
+KCNB1,Ion Transport,In RP
+KCNB2,Ion Transport,In RP
+KCNC1,Ion Transport,In RP
+KCNC2,Ion Transport,In RP
+KCNC3,Ion Transport,In RP
+KCNC4,Ion Transport,In RP
+KCND1,Ion Transport,In RP
+KCND2,Ion Transport,In RP
+KCND3,Ion Transport,In RP
+KCNE1,Ion Transport,In RP
+KCNE1L,Ion Transport,In RP
+KCNE2,Ion Transport,In RP
+KCNE3,Ion Transport,In RP
+KCNE4,Ion Transport,In RP
+KCNF1,Ion Transport,In RP
+KCNG1,Ion Transport,In RP
+KCNG2,Ion Transport,In RP
+KCNG3,Ion Transport,In RP
+KCNG4,Ion Transport,In RP
+KCNH1,Ion Transport,In RP
+KCNH2,Ion Transport,In RP
+KCNH3,Ion Transport,In RP
+KCNH4,Ion Transport,In RP
+KCNH5,Ion Transport,In RP
+KCNH6,Ion Transport,In RP
+KCNH7,Ion Transport,In RP
+KCNH8,Ion Transport,In RP
+KCNJ1,Ion Transport,In RP
+KCNJ10,Ion Transport,In RP
+KCNJ11,Ion Transport,In RP
+KCNJ12,Ion Transport,In RP
+KCNJ13,Ion Transport,In RP
+KCNJ14,Ion Transport,In RP
+KCNJ15,Ion Transport,In RP
+KCNJ16,Ion Transport,In RP
+KCNJ2,Ion Transport,In RP
+KCNJ3,Ion Transport,In RP
+KCNJ4,Ion Transport,In RP
+KCNJ5,Ion Transport,In RP
+KCNJ6,Ion Transport,In RP
+KCNJ8,Ion Transport,In RP
+KCNJ9,Ion Transport,In RP
+KCNK1,Ion Transport,In RP
+KCNK10,Ion Transport,In RP
+KCNK12,Ion Transport,In RP
+KCNK13,Ion Transport,In RP
+KCNK15,Ion Transport,In RP
+KCNK16,Ion Transport,In RP
+KCNK17,Ion Transport,In RP
+KCNK18,Ion Transport,In RP
+KCNK2,Ion Transport,In RP
+KCNK3,Ion Transport,In RP
+KCNK4,Ion Transport,In RP
+KCNK5,Ion Transport,In RP
+KCNK6,Ion Transport,In RP
+KCNK7,Ion Transport,In RP
+KCNK9,Ion Transport,In RP
+KCNMA1,Ion Transport,In RP
+KCNMB1,Ion Transport,In RP
+KCNMB2,Ion Transport,In RP
+KCNMB3,Ion Transport,In RP
+KCNMB4,Ion Transport,In RP
+KCNN1,Ion Transport,In RP
+KCNN2,Ion Transport,In RP
+KCNN3,Ion Transport,In RP
+KCNN4,Ion Transport,In RP
+KCNQ1,Ion Transport,In RP
+KCNQ2,Ion Transport,In RP
+KCNQ3,Ion Transport,In RP
+KCNQ4,Ion Transport,In RP
+KCNQ5,Ion Transport,In RP
+KCNS1,Ion Transport,In RP
+KCNS2,Ion Transport,In RP
+KCNS3,Ion Transport,In RP
+KCNT1,Ion Transport,In RP
+KCNT2,Ion Transport,In RP
+KCNU1,Ion Transport,In RP
+KCNV1,Ion Transport,In RP
+KCNV2,Ion Transport,In RP
+KCTD1,Ion Transport,In RP
+KCTD10,Ion Transport,In RP
+KCTD11,Ion Transport,In RP
+KCTD12,Ion Transport,In RP
+KCTD13,Ion Transport,In RP
+KCTD14,Ion Transport,In RP
+KCTD15,Ion Transport,In RP
+KCTD16,Ion Transport,In RP
+KCTD17,Ion Transport,In RP
+KCTD18,Ion Transport,In RP
+KCTD19,Ion Transport,In RP
+KCTD2,Ion Transport,In RP
+KCTD20,Ion Transport,In RP
+KCTD21,Ion Transport,In RP
+KCTD3,Ion Transport,In RP
+KCTD4,Ion Transport,In RP
+KCTD5,Ion Transport,In RP
+KCTD6,Ion Transport,In RP
+KCTD7,Ion Transport,In RP
+KCTD8,Ion Transport,In RP
+KCTD9,Ion Transport,In RP
+P2RX1,Ion Transport,In RP
+P2RX2,Ion Transport,In RP
+P2RX3,Ion Transport,In RP
+P2RX4,Ion Transport,In RP
+P2RX5,Ion Transport,In RP
+P2RX6,Ion Transport,In RP
+P2RX7,Ion Transport,In RP
+SCN10A,Ion Transport,In RP
+SCN11A,Ion Transport,In RP
+SCN1A,Ion Transport,In RP
+SCN1B,Ion Transport,In RP
+SCN2A,Ion Transport,In RP
+SCN2B,Ion Transport,In RP
+SCN3A,Ion Transport,In RP
+SCN3B,Ion Transport,In RP
+SCN4A,Ion Transport,In RP
+SCN4B,Ion Transport,In RP
+SCN5A,Ion Transport,In RP
+SCN7A,Ion Transport,In RP
+SCN8A,Ion Transport,In RP
+SCN9A,Ion Transport,In RP
+SCNN1A,Ion Transport,In RP
+SCNN1B,Ion Transport,In RP
+SCNN1D,Ion Transport,In RP
+SCNN1G,Ion Transport,In RP
+SLC11A1,Ion Transport,In RP
+SLC11A2,Ion Transport,In RP
+SLC12A1,Ion Transport,In RP
+SLC12A2,Ion Transport,In RP
+SLC12A3,Ion Transport,In RP
+SLC12A4,Ion Transport,In RP
+SLC12A5,Ion Transport,In RP
+SLC12A6,Ion Transport,In RP
+SLC12A7,Ion Transport,In RP
+SLC12A8,Ion Transport,In RP
+SLC12A9,Ion Transport,In RP
+SLC13A1,Ion Transport,In RP
+SLC13A2,Ion Transport,In RP
+SLC13A3,Ion Transport,In RP
+SLC13A4,Ion Transport,In RP
+SLC13A5,Ion Transport,In RP
+SLC24A1,Ion Transport,In RP
+SLC24A2,Ion Transport,In RP
+SLC24A3,Ion Transport,In RP
+SLC24A4,Ion Transport,In RP
+SLC24A5,Ion Transport,In RP
+SLC24A6,Ion Transport,In RP
+SLC30A1,Ion Transport,In RP
+SLC30A10,Ion Transport,In RP
+SLC30A2,Ion Transport,In RP
+SLC30A3,Ion Transport,In RP
+SLC30A4,Ion Transport,In RP
+SLC30A5,Ion Transport,In RP
+SLC30A6,Ion Transport,In RP
+SLC30A7,Ion Transport,In RP
+SLC30A8,Ion Transport,In RP
+SLC30A9,Ion Transport,In RP
+SLC39A1,Ion Transport,In RP
+SLC39A10,Ion Transport,In RP
+SLC39A11,Ion Transport,In RP
+SLC39A12,Ion Transport,In RP
+SLC39A13,Ion Transport,In RP
+SLC39A14,Ion Transport,In RP
+SLC39A2,Ion Transport,In RP
+SLC39A3,Ion Transport,In RP
+SLC39A4,Ion Transport,In RP
+SLC39A5,Ion Transport,In RP
+SLC39A6,Ion Transport,In RP
+SLC39A7,Ion Transport,In RP
+SLC39A8,Ion Transport,In RP
+SLC39A9,Ion Transport,In RP
+SLC3A1,Ion Transport,In RP
+SLC3A2,Ion Transport,In RP
+SLC40A1,Ion Transport,In RP
+SLC41A1,Ion Transport,In RP
+SLC41A2,Ion Transport,In RP
+SLC41A3,Ion Transport,In RP
+VDAC1,Ion Transport,In RP
+VDAC2,Ion Transport,In RP
+VDAC3,Ion Transport,In RP
+ZACN,Ion Transport,In RP
+HEPH,Ion Transport,In RP
+LGICZ1,Ion Transport,In RP
+LST-3TM12,Ion Transport,In RP
+MAGT1,Ion Transport,In RP
+MCOLN1,Ion Transport,In RP
+MCOLN2,Ion Transport,In RP
+MCOLN3,Ion Transport,In RP
+MMAA,Ion Transport,In RP
+NALCN,Ion Transport,In RP
+NIPA1,Ion Transport,In RP
+OCA2,Ion Transport,In RP
+ORAI1,Ion Transport,In RP
+ORAI2,Ion Transport,In RP
+ORAI3,Ion Transport,In RP
+PKD1,Ion Transport,In RP
+PKD2,Ion Transport,In RP
+PKD2L1,Ion Transport,In RP
+RYR1,Ion Transport,In RP
+RYR2,Ion Transport,In RP
+RYR3,Ion Transport,In RP
+SLC22A24,Ion Transport,In RP
+SLC25A25,Ion Transport,In RP
+SLC31A1,Ion Transport,In RP
+SLC31A2,Ion Transport,In RP
+SLN,Ion Transport,In RP
+TCN1,Ion Transport,In RP
+TCN2,Ion Transport,In RP
+TF,Ion Transport,In RP
+TRPA1,Ion Transport,In RP
+TRPC1,Ion Transport,In RP
+TRPC3,Ion Transport,In RP
+TRPC4,Ion Transport,In RP
+TRPC5,Ion Transport,In RP
+TRPC6,Ion Transport,In RP
+TRPC7,Ion Transport,In RP
+TRPM1,Ion Transport,In RP
+TRPM2,Ion Transport,In RP
+TRPM3,Ion Transport,In RP
+TRPM4,Ion Transport,In RP
+TRPM5,Ion Transport,In RP
+TRPM6,Ion Transport,In RP
+TRPM7,Ion Transport,In RP
+TRPM8,Ion Transport,In RP
+TRPV1,Ion Transport,In RP
+TRPV2,Ion Transport,In RP
+TRPV3,Ion Transport,In RP
+TRPV4,Ion Transport,In RP
+TRPV5,Ion Transport,In RP
+TRPV6,Ion Transport,In RP
+TTYH1,Ion Transport,In RP
+TTYH2,Ion Transport,In RP
+TTYH3,Ion Transport,In RP
+BDH1,Ketone Bodies,In RP
+BDH2,Ketone Bodies,In RP
+OXCT1,Ketone Bodies,In RP
+OXCT2,Ketone Bodies,In RP
+ACLY,Krebs,In RP
+ACO1,Krebs,In RP
+ACO2,Krebs,In RP
+CS,Krebs,In RP
+D2HGDH,Krebs,In RP
+DLST ,Krebs,In RP
+FH,Krebs,In RP
+HCCS,Krebs,In RP
+IDH1,Krebs,In RP
+IDH2,Krebs,In RP
+IDH3A,Krebs,In RP
+IDH3B,Krebs,In RP
+IDH3G,Krebs,In RP
+L2HGDH,Krebs,In RP
+MDH1,Krebs,In RP
+MDH1B,Krebs,In RP
+MDH2,Krebs,In RP
+ME1,Krebs,In RP
+ME2,Krebs,In RP
+ME3,Krebs,In RP
+OGDH,Krebs,In RP
+OGDHL,Krebs,In RP
+PC,Krebs,In RP
+SUCLA2,Krebs,In RP
+SUCLG1,Krebs,In RP
+SUCLG2,Krebs,In RP
+AASDH,Lysine,In RP
+AASDHPPT,Lysine,In RP
+AASS,Lysine,In RP
+PIPOX,Lysine,In RP
+AGPAT1,Membrane Lipid,In RP
+AGPAT2,Membrane Lipid,In RP
+AGPAT3,Membrane Lipid,In RP
+AGPAT4,Membrane Lipid,In RP
+AGPAT5,Membrane Lipid,In RP
+GPAT4,Membrane Lipid,In RP
+GPAT3,Membrane Lipid,In RP
+CDS1,Membrane Lipid,In RP
+CDS2,Membrane Lipid,In RP
+CEPT1,Membrane Lipid,In RP
+CHKA,Membrane Lipid,In RP
+CHKB ,Membrane Lipid,In RP
+CHPT1,Membrane Lipid,In RP
+CLC,Membrane Lipid,In RP
+CRLS1,Membrane Lipid,In RP
+CROT,Membrane Lipid,In RP
+DAGLA,Membrane Lipid,In RP
+DAGLB,Membrane Lipid,In RP
+DGKA,Membrane Lipid,In RP
+DGKB,Membrane Lipid,In RP
+DGKD,Membrane Lipid,In RP
+DGKE,Membrane Lipid,In RP
+DGKG,Membrane Lipid,In RP
+DGKH,Membrane Lipid,In RP
+DGKI,Membrane Lipid,In RP
+DGKK,Membrane Lipid,In RP
+DGKQ,Membrane Lipid,In RP
+DGKZ,Membrane Lipid,In RP
+ETNK1,Membrane Lipid,In RP
+ETNK2,Membrane Lipid,In RP
+GDE1,Membrane Lipid,In RP
+GK,Membrane Lipid,In RP
+GK2,Membrane Lipid,In RP
+GK5,Membrane Lipid,In RP
+GNPAT,Membrane Lipid,In RP
+GPAM,Membrane Lipid,In RP
+GPD1,Membrane Lipid,In RP
+GPD1L,Membrane Lipid,In RP
+GPD2,Membrane Lipid,In RP
+LPCAT1,Membrane Lipid,In RP
+LPCAT2,Membrane Lipid,In RP
+LPCAT3,Membrane Lipid,In RP
+LPCAT4,Membrane Lipid,In RP
+LPGAT1,Membrane Lipid,In RP
+LPIN1,Membrane Lipid,In RP
+LPIN2,Membrane Lipid,In RP
+LPIN3,Membrane Lipid,In RP
+LYPLA1,Membrane Lipid,In RP
+LYPLA2,Membrane Lipid,In RP
+LYPLAL1,Membrane Lipid,In RP
+MBOAT1,Membrane Lipid,In RP
+MBOAT2,Membrane Lipid,In RP
+MBOAT4,Membrane Lipid,In RP
+MBOAT7,Membrane Lipid,In RP
+MOGAT1,Membrane Lipid,In RP
+MOGAT2,Membrane Lipid,In RP
+MOGAT3,Membrane Lipid,In RP
+NAPE-PLD,Membrane Lipid,In RP
+PAP2D,Membrane Lipid,In RP
+PCYT1A,Membrane Lipid,In RP
+PCYT1B,Membrane Lipid,In RP
+PCYT2,Membrane Lipid,In RP
+PEMT,Membrane Lipid,In RP
+PGS1,Membrane Lipid,In RP
+PHOSPHO1,Membrane Lipid,In RP
+PISD,Membrane Lipid,In RP
+PLA1A,Membrane Lipid,In RP
+PLA2G10,Membrane Lipid,In RP
+PLA2G12A,Membrane Lipid,In RP
+PLA2G12B,Membrane Lipid,In RP
+PLA2G15,Membrane Lipid,In RP
+PLA2G16,Membrane Lipid,In RP
+PLA2G1B,Membrane Lipid,In RP
+PLA2G2A,Membrane Lipid,In RP
+PLA2G2C,Membrane Lipid,In RP
+PLA2G2D,Membrane Lipid,In RP
+PLA2G2E,Membrane Lipid,In RP
+PLA2G2F,Membrane Lipid,In RP
+PLA2G3,Membrane Lipid,In RP
+PLA2G4A,Membrane Lipid,In RP
+PLA2G4B,Membrane Lipid,In RP
+PLA2G4C,Membrane Lipid,In RP
+PLA2G4D,Membrane Lipid,In RP
+PLA2G4E,Membrane Lipid,In RP
+PLA2G4F,Membrane Lipid,In RP
+PLA2G5,Membrane Lipid,In RP
+PLA2G6,Membrane Lipid,In RP
+PLA2G7,Membrane Lipid,In RP
+PLB1,Membrane Lipid,In RP
+PLCB1,Membrane Lipid,In RP
+PLCB2,Membrane Lipid,In RP
+PLCB3,Membrane Lipid,In RP
+PLCB4,Membrane Lipid,In RP
+PLCD1,Membrane Lipid,In RP
+PLCD3,Membrane Lipid,In RP
+PLCD4,Membrane Lipid,In RP
+PLCE1,Membrane Lipid,In RP
+PLCG1,Membrane Lipid,In RP
+PLCG2,Membrane Lipid,In RP
+PLCH1,Membrane Lipid,In RP
+PLCH2,Membrane Lipid,In RP
+PLCL1,Membrane Lipid,In RP
+PLCL2,Membrane Lipid,In RP
+PLCXD1,Membrane Lipid,In RP
+PLCXD2,Membrane Lipid,In RP
+PLCXD3,Membrane Lipid,In RP
+PLCZ1,Membrane Lipid,In RP
+PLD1,Membrane Lipid,In RP
+PLD2,Membrane Lipid,In RP
+PLD3,Membrane Lipid,In RP
+PLD4,Membrane Lipid,In RP
+PLD5,Membrane Lipid,In RP
+PLD6,Membrane Lipid,In RP
+PPAP2A,Membrane Lipid,In RP
+PPAP2B,Membrane Lipid,In RP
+PPAP2C,Membrane Lipid,In RP
+PPAPDC1A,Membrane Lipid,In RP
+PPAPDC1B,Membrane Lipid,In RP
+PPAPDC2,Membrane Lipid,In RP
+PPAPDC3,Membrane Lipid,In RP
+PRG2,Membrane Lipid,In RP
+PTDSS1,Membrane Lipid,In RP
+PTDSS2,Membrane Lipid,In RP
+MAT1A,Methionine,In RP
+MAT2A,Methionine,In RP
+MAT2B,Methionine,In RP
+MSRA,Methionine,In RP
+MSRB2,Methionine,In RP
+MSRB3,Methionine,In RP
+MTR,Methionine,In RP
+SEPX1,Methionine,In RP
+HMGCR,Mevalonate,In RP
+HMGCS1,Mevalonate,In RP
+HMGCS2,Mevalonate,In RP
+IDI1,Mevalonate,In RP
+IDI2,Mevalonate,In RP
+MVD,Mevalonate,In RP
+MVK,Mevalonate,In RP
+PMVK,Mevalonate,In RP
+ABHD1,Multipurpose,In RP
+ABHD10,Multipurpose,In RP
+ABHD11,Multipurpose,In RP
+ABHD12,Multipurpose,In RP
+ABHD12B,Multipurpose,In RP
+ABHD13,Multipurpose,In RP
+ABHD14A,Multipurpose,In RP
+ABHD14B,Multipurpose,In RP
+ABHD2,Multipurpose,In RP
+ABHD3,Multipurpose,In RP
+ABHD4,Multipurpose,In RP
+ABHD5,Multipurpose,In RP
+ABHD6,Multipurpose,In RP
+ABHD7,Multipurpose,In RP
+ABHD8,Multipurpose,In RP
+ABHD9,Multipurpose,In RP
+ABP1,Multipurpose,In RP
+ACYP1,Multipurpose,In RP
+ACYP2,Multipurpose,In RP
+ADH1A,Multipurpose,In RP
+ADH1B,Multipurpose,In RP
+ADH1C,Multipurpose,In RP
+ADH4,Multipurpose,In RP
+ADH5,Multipurpose,In RP
+ADH6,Multipurpose,In RP
+ADH7,Multipurpose,In RP
+ADHFE1,Multipurpose,In RP
+AKR1A1,Multipurpose,In RP
+AKR1B1,Multipurpose,In RP
+AKR1B10,Multipurpose,In RP
+AKR1C1,Multipurpose,In RP
+AKR1C2,Multipurpose,In RP
+AKR1C3,Multipurpose,In RP
+AKR7A2,Multipurpose,In RP
+AKR7A3,Multipurpose,In RP
+ALDH16A1,Multipurpose,In RP
+ALDH1A1,Multipurpose,In RP
+ALDH1A2,Multipurpose,In RP
+ALDH1A3,Multipurpose,In RP
+ALDH1B1,Multipurpose,In RP
+ALDH1L1,Multipurpose,In RP
+ALDH1L2,Multipurpose,In RP
+ALDH2,Multipurpose,In RP
+ALDH3A1,Multipurpose,In RP
+ALDH3A2,Multipurpose,In RP
+ALDH3B1,Multipurpose,In RP
+ALDH3B2,Multipurpose,In RP
+ALDH6A1,Multipurpose,In RP
+ALDH7A1,Multipurpose,In RP
+ALDH8A1,Multipurpose,In RP
+ALDH9A1,Multipurpose,In RP
+AOC2,Multipurpose,In RP
+AOC3,Multipurpose,In RP
+ARSA,Multipurpose,In RP
+ARSB,Multipurpose,In RP
+ARSD,Multipurpose,In RP
+ARSE,Multipurpose,In RP
+ARSF,Multipurpose,In RP
+ARSG,Multipurpose,In RP
+ARSH,Multipurpose,In RP
+ARSI,Multipurpose,In RP
+ARSJ,Multipurpose,In RP
+ARSK,Multipurpose,In RP
+AUH,Multipurpose,In RP
+CA1,Multipurpose,In RP
+CA10,Multipurpose,In RP
+CA11,Multipurpose,In RP
+CA12,Multipurpose,In RP
+CA13,Multipurpose,In RP
+CA14,Multipurpose,In RP
+CA2,Multipurpose,In RP
+CA3,Multipurpose,In RP
+CA4,Multipurpose,In RP
+CA5A,Multipurpose,In RP
+CA5B,Multipurpose,In RP
+CA6,Multipurpose,In RP
+CA7,Multipurpose,In RP
+CA8,Multipurpose,In RP
+CA9,Multipurpose,In RP
+CBR1,Multipurpose,In RP
+CBR3,Multipurpose,In RP
+CBR4,Multipurpose,In RP
+DLD,Multipurpose,In RP
+GGH,Multipurpose,In RP
+GGT1,Multipurpose,In RP
+GGT2,Multipurpose,In RP
+GGT5,Multipurpose,In RP
+GGT6,Multipurpose,In RP
+GGT7,Multipurpose,In RP
+GGTLC1,Multipurpose,In RP
+GGTLC2,Multipurpose,In RP
+GOT1,Multipurpose,In RP
+GOT1L1,Multipurpose,In RP
+GOT2,Multipurpose,In RP
+GSTZ1,Multipurpose,In RP
+HMGCL,Multipurpose,In RP
+HMGCLL1,Multipurpose,In RP
+LPPR4,Multipurpose,In RP
+MAK10,Multipurpose,In RP
+MAOA,Multipurpose,In RP
+MAOB,Multipurpose,In RP
+NAT1,Multipurpose,In RP
+NAT10,Multipurpose,In RP
+NAT11,Multipurpose,In RP
+NAT12,Multipurpose,In RP
+NAT13,Multipurpose,In RP
+NAT14,Multipurpose,In RP
+NAT15,Multipurpose,In RP
+NAT2,Multipurpose,In RP
+NAT5,Multipurpose,In RP
+NAT6,Multipurpose,In RP
+NAT8,Multipurpose,In RP
+NAT8B,Multipurpose,In RP
+NAT8L,Multipurpose,In RP
+NAT9,Multipurpose,In RP
+POR,Multipurpose,In RP
+ZADH2,Multipurpose,In RP
+BST1,NAD,In RP
+C9ORF95,NAD,In RP
+DUOX1,NAD,In RP
+DUOX2,NAD,In RP
+NADK,NAD,In RP
+NADSYN1,NAD,In RP
+NAPRT1,NAD,In RP
+NMNAT1,NAD,In RP
+NMNAT2,NAD,In RP
+NMNAT3,NAD,In RP
+NNMT,NAD,In RP
+NNT,NAD,In RP
+NOX1,NAD,In RP
+NOX3,NAD,In RP
+NOX4,NAD,In RP
+NOX5,NAD,In RP
+NQO1,NAD,In RP
+NQO2,NAD,In RP
+QPRT,NAD,In RP
+ABAT,Neurotransmitter,In RP
+ACHE,Neurotransmitter,In RP
+CHAT,Neurotransmitter,In RP
+CHDH,Neurotransmitter,In RP
+COMT,Neurotransmitter,In RP
+COMTD1,Neurotransmitter,In RP
+DBH,Neurotransmitter,In RP
+DDC,Neurotransmitter,In RP
+NAALAD2,Neurotransmitter,In RP
+NAALADL1,Neurotransmitter,In RP
+NAALADL2,Neurotransmitter,In RP
+PNMT,Neurotransmitter,In RP
+SRR,Neurotransmitter,In RP
+TH,Neurotransmitter,In RP
+TPH1,Neurotransmitter,In RP
+TPH2,Neurotransmitter,In RP
+BPNT1,Nucleotide,In RP
+CANT1,Nucleotide,In RP
+DCK,Nucleotide,In RP
+ENPP1,Nucleotide,In RP
+ENPP2,Nucleotide,In RP
+ENPP3,Nucleotide,In RP
+ENPP4,Nucleotide,In RP
+ENPP5,Nucleotide,In RP
+ENPP6,Nucleotide,In RP
+ENPP7,Nucleotide,In RP
+ENTPD1,Nucleotide,In RP
+ENTPD2,Nucleotide,In RP
+ENTPD3,Nucleotide,In RP
+ENTPD4,Nucleotide,In RP
+ENTPD5,Nucleotide,In RP
+ENTPD6,Nucleotide,In RP
+ENTPD7,Nucleotide,In RP
+ENTPD8,Nucleotide,In RP
+ITPA,Nucleotide,In RP
+NME1,Nucleotide,In RP
+NME2,Nucleotide,In RP
+NME3,Nucleotide,In RP
+NME4,Nucleotide,In RP
+NME5,Nucleotide,In RP
+NME6,Nucleotide,In RP
+NME7,Nucleotide,In RP
+NT5C,Nucleotide,In RP
+NT5C1A,Nucleotide,In RP
+NT5C1B,Nucleotide,In RP
+NT5C2,Nucleotide,In RP
+NT5C3,Nucleotide,In RP
+NT5C3L,Nucleotide,In RP
+NT5DC1,Nucleotide,In RP
+NT5DC2,Nucleotide,In RP
+NT5DC3,Nucleotide,In RP
+NT5DC4,Nucleotide,In RP
+NT5E,Nucleotide,In RP
+NT5M,Nucleotide,In RP
+NUDT1,Nucleotide,In RP
+NUDT10,Nucleotide,In RP
+NUDT11,Nucleotide,In RP
+NUDT12,Nucleotide,In RP
+NUDT13,Nucleotide,In RP
+NUDT14,Nucleotide,In RP
+NUDT15,Nucleotide,In RP
+NUDT16,Nucleotide,In RP
+NUDT16L1,Nucleotide,In RP
+NUDT17,Nucleotide,In RP
+NUDT18,Nucleotide,In RP
+NUDT19,Nucleotide,In RP
+NUDT2,Nucleotide,In RP
+NUDT21,Nucleotide,In RP
+NUDT22,Nucleotide,In RP
+NUDT3,Nucleotide,In RP
+NUDT4,Nucleotide,In RP
+NUDT5,Nucleotide,In RP
+NUDT6,Nucleotide,In RP
+NUDT7,Nucleotide,In RP
+NUDT8,Nucleotide,In RP
+NUDT9,Nucleotide,In RP
+RRM1,Nucleotide,In RP
+RRM2,Nucleotide,In RP
+RRM2B,Nucleotide,In RP
+TGDS,Nucleotide Sugar,In RP
+UGDH,Nucleotide Sugar,In RP
+UXS1,Nucleotide Sugar,In RP
+A1CF,Other,In RP
+ACN9,Other,In RP
+AOAH,Other,In RP
+APEH,Other,In RP
+AS3MT,Other,In RP
+BPHL,Other,In RP
+CMBL,Other,In RP
+CNDP1,Other,In RP
+CNDP2,Other,In RP
+DDHD1,Other,In RP
+DDHD2,Other,In RP
+ENOPH1,Other,In RP
+ENOSF1,Other,In RP
+EPX,Other,In RP
+ESD,Other,In RP
+FXN,Other,In RP
+GDPD1,Other,In RP
+GDPD2,Other,In RP
+GDPD3,Other,In RP
+GDPD4,Other,In RP
+GDPD5,Other,In RP
+GLYAT,Other,In RP
+GLYATL1,Other,In RP
+GLYATL2,Other,In RP
+GNMT,Other,In RP
+HISPPD1,Other,In RP
+HISPPD2A,Other,In RP
+IAH1,Other,In RP
+LIAS,Other,In RP
+LIPT1,Other,In RP
+MOSC1,Other,In RP
+MOSC2,Other,In RP
+MPO,Other,In RP
+NIT1,Other,In RP
+NIT2,Other,In RP
+PAM,Other,In RP
+PON1,Other,In RP
+PON2,Other,In RP
+PON3,Other,In RP
+PPA1,Other,In RP
+PPA2,Other,In RP
+PTER,Other,In RP
+THEM2,Other,In RP
+THEM4,Other,In RP
+THEM5,Other,In RP
+UEVLD,Other,In RP
+WWOX,Other,In RP
+GLTP,Other,In RP
+CTNS,Other Transport,In RP
+DIRC2,Other Transport,In RP
+FLVCR1,Other Transport,In RP
+FLVCR2,Other Transport,In RP
+MCART1,Other Transport,In RP
+MCART2,Other Transport,In RP
+MCART6,Other Transport,In RP
+MFSD1,Other Transport,In RP
+MFSD10,Other Transport,In RP
+MFSD11,Other Transport,In RP
+MFSD2,Other Transport,In RP
+MFSD3,Other Transport,In RP
+MFSD4,Other Transport,In RP
+MFSD5,Other Transport,In RP
+MFSD7,Other Transport,In RP
+MFSD8,Other Transport,In RP
+MFSD9,Other Transport,In RP
+STRA6,Other Transport,In RP
+TAP1,Other Transport,In RP
+TAP2,Other Transport,In RP
+TMCO3,Other Transport,In RP
+TMEM104,Other Transport,In RP
+TPCN1,Other Transport,In RP
+TPCN2,Other Transport,In RP
+DERA,Pentose Phosphate,In RP
+G6PD,Pentose Phosphate,In RP
+PGD,Pentose Phosphate,In RP
+PGLS,Pentose Phosphate,In RP
+RPE,Pentose Phosphate,In RP
+RPIA,Pentose Phosphate,In RP
+TALDO1,Pentose Phosphate,In RP
+TKT,Pentose Phosphate,In RP
+TKTL1,Pentose Phosphate,In RP
+TKTL2,Pentose Phosphate,In RP
+DCT,Pigment,In RP
+DDT,Pigment,In RP
+TYR,Pigment,In RP
+TYRP1,Pigment,In RP
+AMACR,Polyamine,In RP
+AMD1,Polyamine,In RP
+MTAP,Polyamine,In RP
+ODC1,Polyamine,In RP
+PAOX,Polyamine,In RP
+SAT1,Polyamine,In RP
+SAT2,Polyamine,In RP
+SATL1,Polyamine,In RP
+SMOX,Polyamine,In RP
+SMS,Polyamine,In RP
+SRM,Polyamine,In RP
+ALAD,Porphyrin,In RP
+ALAS1,Porphyrin,In RP
+ALAS2,Porphyrin,In RP
+BLVRA,Porphyrin,In RP
+BLVRB,Porphyrin,In RP
+CPOX,Porphyrin,In RP
+FECH,Porphyrin,In RP
+HMBS,Porphyrin,In RP
+HMOX1,Porphyrin,In RP
+HMOX2,Porphyrin,In RP
+PPOX,Porphyrin,In RP
+UROD,Porphyrin,In RP
+UROS,Porphyrin,In RP
+ALDH4A1,Proline,In RP
+PRODH,Proline,In RP
+PRODH2,Proline,In RP
+PYCR1,Proline,In RP
+PYCR2,Proline,In RP
+PYCRL,Proline,In RP
+MCEE,Propanoate,In RP
+MUT,Propanoate,In RP
+PCCA,Propanoate,In RP
+PCCB,Propanoate,In RP
+ATP5A1,Proton Transport,In RP
+ATP5B,Proton Transport,In RP
+ATP5C1,Proton Transport,In RP
+ATP5C2,Proton Transport,In RP
+ATP5D,Proton Transport,In RP
+ATP5E,Proton Transport,In RP
+ATP5F1,Proton Transport,In RP
+ATP5G1,Proton Transport,In RP
+ATP5G2,Proton Transport,In RP
+ATP5G3,Proton Transport,In RP
+ATP5H,Proton Transport,In RP
+ATP5I,Proton Transport,In RP
+ATP5J,Proton Transport,In RP
+ATP5J2,Proton Transport,In RP
+ATP5L,Proton Transport,In RP
+ATP5L2,Proton Transport,In RP
+ATP5O,Proton Transport,In RP
+ATP5S,Proton Transport,In RP
+ATP5SL,Proton Transport,In RP
+ATP6,Proton Transport,In RP
+ATP6AP1,Proton Transport,In RP
+ATP6AP2,Proton Transport,In RP
+ATP6V0A1,Proton Transport,In RP
+ATP6V0A2,Proton Transport,In RP
+ATP6V0A4,Proton Transport,In RP
+ATP6V0B,Proton Transport,In RP
+ATP6V0C,Proton Transport,In RP
+ATP6V0D1,Proton Transport,In RP
+ATP6V0D2,Proton Transport,In RP
+ATP6V0E1,Proton Transport,In RP
+ATP6V0E2,Proton Transport,In RP
+ATP6V1A,Proton Transport,In RP
+ATP6V1B1,Proton Transport,In RP
+ATP6V1B2,Proton Transport,In RP
+ATP6V1C1,Proton Transport,In RP
+ATP6V1C2,Proton Transport,In RP
+ATP6V1D,Proton Transport,In RP
+ATP6V1E1,Proton Transport,In RP
+ATP6V1E2,Proton Transport,In RP
+ATP6V1F,Proton Transport,In RP
+ATP6V1G1,Proton Transport,In RP
+ATP6V1G2,Proton Transport,In RP
+ATP6V1G3,Proton Transport,In RP
+ATP6V1H,Proton Transport,In RP
+HVCN1,Proton Transport,In RP
+TCIRG1,Proton Transport,In RP
+UCP1,Proton Transport,In RP
+UCP2,Proton Transport,In RP
+UCP3,Proton Transport,In RP
+ADA,Purine,In RP
+ADAD1,Purine,In RP
+ADAD2,Purine,In RP
+ADAL,Purine,In RP
+ADK,Purine,In RP
+ADSL,Purine,In RP
+ADSS,Purine,In RP
+ADSSL1,Purine,In RP
+AK1,Purine,In RP
+AK2,Purine,In RP
+AK3,Purine,In RP
+AK3L1,Purine,In RP
+AK5,Purine,In RP
+AK7,Purine,In RP
+AMPD1,Purine,In RP
+AMPD2,Purine,In RP
+AMPD3,Purine,In RP
+APRT,Purine,In RP
+ATIC,Purine,In RP
+CECR1,Purine,In RP
+DGUOK,Purine,In RP
+FHIT,Purine,In RP
+GART,Purine,In RP
+GDA,Purine,In RP
+GMPR,Purine,In RP
+GMPR2,Purine,In RP
+GMPS,Purine,In RP
+GUK1,Purine,In RP
+HPRT1,Purine,In RP
+IMPDH1,Purine,In RP
+IMPDH2,Purine,In RP
+NP,Purine,In RP
+PAICS,Purine,In RP
+PFAS,Purine,In RP
+PPAT,Purine,In RP
+PRPS1,Purine,In RP
+PRPS1L1,Purine,In RP
+PRPS2,Purine,In RP
+PRPSAP1,Purine,In RP
+PRPSAP2,Purine,In RP
+XDH,Purine,In RP
+CAD,Pyrimidine,In RP
+CDA,Pyrimidine,In RP
+CDADC1,Pyrimidine,In RP
+CMPK1,Pyrimidine,In RP
+CTPS,Pyrimidine,In RP
+CTPS2,Pyrimidine,In RP
+DCTD,Pyrimidine,In RP
+DHODH,Pyrimidine,In RP
+DPYD,Pyrimidine,In RP
+DPYS,Pyrimidine,In RP
+DPYSL2,Pyrimidine,In RP
+DPYSL3,Pyrimidine,In RP
+DPYSL4,Pyrimidine,In RP
+DPYSL5,Pyrimidine,In RP
+DTYMK,Pyrimidine,In RP
+DUT,Pyrimidine,In RP
+TK1,Pyrimidine,In RP
+TK2,Pyrimidine,In RP
+TYMP,Pyrimidine,In RP
+TYMS,Pyrimidine,In RP
+UCK1,Pyrimidine,In RP
+UCK2,Pyrimidine,In RP
+UCKL1,Pyrimidine,In RP
+UMPS,Pyrimidine,In RP
+UPB1,Pyrimidine,In RP
+UPP1,Pyrimidine,In RP
+UPP2,Pyrimidine,In RP
+UPRT,Pyrimidine,In RP
+AOX1,Reactive Oxygen,In RP
+DDAH1,Reactive Oxygen,In RP
+DDAH2,Reactive Oxygen,In RP
+NOS1,Reactive Oxygen,In RP
+NOS2,Reactive Oxygen,In RP
+NOS3,Reactive Oxygen,In RP
+CP,Redox,In RP
+CRYZ,Redox,In RP
+CRYZL1,Redox,In RP
+CYB561,Redox,In RP
+CYB5A,Redox,In RP
+CYB5B,Redox,In RP
+CYB5D1,Redox,In RP
+CYB5D2,Redox,In RP
+CYB5R1,Redox,In RP
+CYB5R2,Redox,In RP
+CYB5R3,Redox,In RP
+CYB5R4,Redox,In RP
+CYB5RL,Redox,In RP
+CYBA,Redox,In RP
+CYBASC3,Redox,In RP
+CYBB,Redox,In RP
+CYBRD1,Redox,In RP
+DHRS1,Redox,In RP
+DHRS11,Redox,In RP
+DHRS12,Redox,In RP
+DHRS13,Redox,In RP
+DHRS2,Redox,In RP
+DHRS3,Redox,In RP
+DHRS4,Redox,In RP
+DHRS4L1,Redox,In RP
+DHRS4L2,Redox,In RP
+DHRS7,Redox,In RP
+DHRS7B,Redox,In RP
+DHRS7C,Redox,In RP
+DHRS9,Redox,In RP
+DHRSX,Redox,In RP
+DHTKD1,Redox,In RP
+ENOX1,Redox,In RP
+ENOX2,Redox,In RP
+FDX1,Redox,In RP
+FDX1L,Redox,In RP
+FDXR,Redox,In RP
+FOXRED1,Redox,In RP
+FOXRED2,Redox,In RP
+FRRS1,Redox,In RP
+GLRX,Redox,In RP
+GLRX2,Redox,In RP
+GLRX3,Redox,In RP
+GLRX5,Redox,In RP
+GRXCR1,Redox,In RP
+GRXCR2,Redox,In RP
+ISCA1,Redox,In RP
+ISCA1L,Redox,In RP
+ISCA2,Redox,In RP
+LPO,Redox,In RP
+MICAL1,Redox,In RP
+MICAL2,Redox,In RP
+MICAL3,Redox,In RP
+NDOR1,Redox,In RP
+NMRAL1,Redox,In RP
+OGFOD1,Redox,In RP
+OGFOD2,Redox,In RP
+OXA1L,Redox,In RP
+PRDX1,Redox,In RP
+PRDX2,Redox,In RP
+PRDX3,Redox,In RP
+PRDX4,Redox,In RP
+PRDX5,Redox,In RP
+PRDX6,Redox,In RP
+PYROXD1,Redox,In RP
+TXNRD1,Redox,In RP
+TXNRD2,Redox,In RP
+TXNRD3,Redox,In RP
+PHGDH,Serine,In RP
+PSAT,Serine,In RP
+PSPH,Serine,In RP
+ADCY1,Signalling,In RP
+ADCY10,Signalling,In RP
+ADCY2,Signalling,In RP
+ADCY3,Signalling,In RP
+ADCY4,Signalling,In RP
+ADCY5,Signalling,In RP
+ADCY6,Signalling,In RP
+ADCY7,Signalling,In RP
+ADCY8,Signalling,In RP
+ADCY9,Signalling,In RP
+C9ORF98,Signalling,In RP
+CNP,Signalling,In RP
+GUCY1A2,Signalling,In RP
+GUCY1A3,Signalling,In RP
+GUCY1B3,Signalling,In RP
+GUCY2C,Signalling,In RP
+GUCY2D,Signalling,In RP
+GUCY2F,Signalling,In RP
+NPR1,Signalling,In RP
+NPR2,Signalling,In RP
+NPR3,Signalling,In RP
+OAS1,Signalling,In RP
+OAS2,Signalling,In RP
+OAS3,Signalling,In RP
+OASL,Signalling,In RP
+PDE10A,Signalling,In RP
+PDE11A,Signalling,In RP
+PDE12,Signalling,In RP
+PDE1A,Signalling,In RP
+PDE1B,Signalling,In RP
+PDE1C,Signalling,In RP
+PDE2A,Signalling,In RP
+PDE3A,Signalling,In RP
+PDE3B,Signalling,In RP
+PDE4A,Signalling,In RP
+PDE4B,Signalling,In RP
+PDE4C,Signalling,In RP
+PDE4D,Signalling,In RP
+PDE5A,Signalling,In RP
+PDE6A,Signalling,In RP
+PDE6B,Signalling,In RP
+PDE6C,Signalling,In RP
+PDE6D,Signalling,In RP
+PDE6G,Signalling,In RP
+PDE6H,Signalling,In RP
+PDE7A,Signalling,In RP
+PDE7B,Signalling,In RP
+PDE8A,Signalling,In RP
+PDE8B,Signalling,In RP
+PDE9A,Signalling,In RP
+ACCN1,Small Molecule Transport,In RP
+ACCN2,Small Molecule Transport,In RP
+ACCN3,Small Molecule Transport,In RP
+ACCN4,Small Molecule Transport,In RP
+ACCN5,Small Molecule Transport,In RP
+ANKH,Small Molecule Transport,In RP
+AQP1,Small Molecule Transport,In RP
+AQP10,Small Molecule Transport,In RP
+AQP11,Small Molecule Transport,In RP
+AQP12A,Small Molecule Transport,In RP
+AQP12B,Small Molecule Transport,In RP
+AQP2,Small Molecule Transport,In RP
+AQP3,Small Molecule Transport,In RP
+AQP4,Small Molecule Transport,In RP
+AQP5,Small Molecule Transport,In RP
+AQP6,Small Molecule Transport,In RP
+AQP7,Small Molecule Transport,In RP
+AQP8,Small Molecule Transport,In RP
+AQP9,Small Molecule Transport,In RP
+ASNA1,Small Molecule Transport,In RP
+ATP10A,Small Molecule Transport,In RP
+ATP10B,Small Molecule Transport,In RP
+ATP10D,Small Molecule Transport,In RP
+ATP8,Small Molecule Transport,In RP
+ATP8A1,Small Molecule Transport,In RP
+ATP8A2,Small Molecule Transport,In RP
+ATP8B1,Small Molecule Transport,In RP
+ATP8B2,Small Molecule Transport,In RP
+ATP8B3,Small Molecule Transport,In RP
+ATP8B4,Small Molecule Transport,In RP
+ATP9A,Small Molecule Transport,In RP
+ATP9B,Small Molecule Transport,In RP
+FOLR1,Small Molecule Transport,In RP
+FOLR2,Small Molecule Transport,In RP
+FOLR3,Small Molecule Transport,In RP
+SLC10A1,Small Molecule Transport,In RP
+SLC10A2,Small Molecule Transport,In RP
+SLC10A3,Small Molecule Transport,In RP
+SLC10A4,Small Molecule Transport,In RP
+SLC10A5,Small Molecule Transport,In RP
+SLC10A6,Small Molecule Transport,In RP
+SLC10A7,Small Molecule Transport,In RP
+SLC14A1,Small Molecule Transport,In RP
+SLC14A2,Small Molecule Transport,In RP
+SLC15A1,Small Molecule Transport,In RP
+SLC15A2,Small Molecule Transport,In RP
+SLC15A3,Small Molecule Transport,In RP
+SLC15A4,Small Molecule Transport,In RP
+SLC16A1,Small Molecule Transport,In RP
+SLC16A10,Small Molecule Transport,In RP
+SLC16A11,Small Molecule Transport,In RP
+SLC16A12,Small Molecule Transport,In RP
+SLC16A13,Small Molecule Transport,In RP
+SLC16A14,Small Molecule Transport,In RP
+SLC16A2,Small Molecule Transport,In RP
+SLC16A3,Small Molecule Transport,In RP
+SLC16A4,Small Molecule Transport,In RP
+SLC16A5,Small Molecule Transport,In RP
+SLC16A6,Small Molecule Transport,In RP
+SLC16A7,Small Molecule Transport,In RP
+SLC16A8,Small Molecule Transport,In RP
+SLC16A9,Small Molecule Transport,In RP
+SLC17A1,Small Molecule Transport,In RP
+SLC17A2,Small Molecule Transport,In RP
+SLC17A3,Small Molecule Transport,In RP
+SLC17A4,Small Molecule Transport,In RP
+SLC17A5,Small Molecule Transport,In RP
+SLC17A6,Small Molecule Transport,In RP
+SLC17A7,Small Molecule Transport,In RP
+SLC17A8,Small Molecule Transport,In RP
+SLC18A1,Small Molecule Transport,In RP
+SLC18A2,Small Molecule Transport,In RP
+SLC18A3,Small Molecule Transport,In RP
+SLC19A1,Small Molecule Transport,In RP
+SLC19A2,Small Molecule Transport,In RP
+SLC19A3,Small Molecule Transport,In RP
+SLC1A1,Small Molecule Transport,In RP
+SLC1A2,Small Molecule Transport,In RP
+SLC1A3,Small Molecule Transport,In RP
+SLC1A4,Small Molecule Transport,In RP
+SLC1A5,Small Molecule Transport,In RP
+SLC1A6,Small Molecule Transport,In RP
+SLC1A7,Small Molecule Transport,In RP
+SLC20A1,Small Molecule Transport,In RP
+SLC20A2,Small Molecule Transport,In RP
+SLC22A1,Small Molecule Transport,In RP
+SLC22A11,Small Molecule Transport,In RP
+SLC22A12,Small Molecule Transport,In RP
+SLC22A13,Small Molecule Transport,In RP
+SLC22A14,Small Molecule Transport,In RP
+SLC22A15,Small Molecule Transport,In RP
+SLC22A16,Small Molecule Transport,In RP
+SLC22A17,Small Molecule Transport,In RP
+SLC22A18,Small Molecule Transport,In RP
+SLC22A18AS,Small Molecule Transport,In RP
+SLC22A2,Small Molecule Transport,In RP
+SLC22A20,Small Molecule Transport,In RP
+SLC22A23,Small Molecule Transport,In RP
+SLC22A3,Small Molecule Transport,In RP
+SLC22A4,Small Molecule Transport,In RP
+SLC22A5,Small Molecule Transport,In RP
+SLC22A6,Small Molecule Transport,In RP
+SLC22A7,Small Molecule Transport,In RP
+SLC22A8,Small Molecule Transport,In RP
+SLC22A9,Small Molecule Transport,In RP
+SLC23A1,Small Molecule Transport,In RP
+SLC23A2,Small Molecule Transport,In RP
+SLC23A3,Small Molecule Transport,In RP
+SLC25A1,Small Molecule Transport,In RP
+SLC25A10,Small Molecule Transport,In RP
+SLC25A11,Small Molecule Transport,In RP
+SLC25A12,Small Molecule Transport,In RP
+SLC25A13,Small Molecule Transport,In RP
+SLC25A14,Small Molecule Transport,In RP
+SLC25A15,Small Molecule Transport,In RP
+SLC25A16,Small Molecule Transport,In RP
+SLC25A17,Small Molecule Transport,In RP
+SLC25A18,Small Molecule Transport,In RP
+SLC25A19,Small Molecule Transport,In RP
+SLC25A2,Small Molecule Transport,In RP
+SLC25A20,Small Molecule Transport,In RP
+SLC25A21,Small Molecule Transport,In RP
+SLC25A22,Small Molecule Transport,In RP
+SLC25A23,Small Molecule Transport,In RP
+SLC25A24,Small Molecule Transport,In RP
+SLC25A26,Small Molecule Transport,In RP
+SLC25A27,Small Molecule Transport,In RP
+SLC25A28,Small Molecule Transport,In RP
+SLC25A29,Small Molecule Transport,In RP
+SLC25A3,Small Molecule Transport,In RP
+SLC25A30,Small Molecule Transport,In RP
+SLC25A31,Small Molecule Transport,In RP
+SLC25A32,Small Molecule Transport,In RP
+SLC25A33,Small Molecule Transport,In RP
+SLC25A34,Small Molecule Transport,In RP
+SLC25A35,Small Molecule Transport,In RP
+SLC25A36,Small Molecule Transport,In RP
+SLC25A37,Small Molecule Transport,In RP
+SLC25A38,Small Molecule Transport,In RP
+SLC25A39,Small Molecule Transport,In RP
+SLC25A4,Small Molecule Transport,In RP
+SLC25A40,Small Molecule Transport,In RP
+SLC25A41,Small Molecule Transport,In RP
+SLC25A42,Small Molecule Transport,In RP
+SLC25A43,Small Molecule Transport,In RP
+SLC25A44,Small Molecule Transport,In RP
+SLC25A45,Small Molecule Transport,In RP
+SLC25A46,Small Molecule Transport,In RP
+SLC25A5,Small Molecule Transport,In RP
+SLC25A6,Small Molecule Transport,In RP
+SLC26A1,Small Molecule Transport,In RP
+SLC26A10,Small Molecule Transport,In RP
+SLC26A11,Small Molecule Transport,In RP
+SLC26A2,Small Molecule Transport,In RP
+SLC26A3,Small Molecule Transport,In RP
+SLC26A4,Small Molecule Transport,In RP
+SLC26A5,Small Molecule Transport,In RP
+SLC26A6,Small Molecule Transport,In RP
+SLC26A7,Small Molecule Transport,In RP
+SLC26A8,Small Molecule Transport,In RP
+SLC26A9,Small Molecule Transport,In RP
+SLC27A1,Small Molecule Transport,In RP
+SLC27A2,Small Molecule Transport,In RP
+SLC27A3,Small Molecule Transport,In RP
+SLC27A4,Small Molecule Transport,In RP
+SLC27A5,Small Molecule Transport,In RP
+SLC27A6,Small Molecule Transport,In RP
+SLC28A1,Small Molecule Transport,In RP
+SLC28A2,Small Molecule Transport,In RP
+SLC28A3,Small Molecule Transport,In RP
+SLC29A1,Small Molecule Transport,In RP
+SLC29A2,Small Molecule Transport,In RP
+SLC29A3,Small Molecule Transport,In RP
+SLC29A4,Small Molecule Transport,In RP
+SLC2A1,Small Molecule Transport,In RP
+SLC2A10,Small Molecule Transport,In RP
+SLC2A11,Small Molecule Transport,In RP
+SLC2A12,Small Molecule Transport,In RP
+SLC2A13,Small Molecule Transport,In RP
+SLC2A14,Small Molecule Transport,In RP
+SLC2A2,Small Molecule Transport,In RP
+SLC2A3,Small Molecule Transport,In RP
+SLC2A4,Small Molecule Transport,In RP
+SLC2A5,Small Molecule Transport,In RP
+SLC2A6,Small Molecule Transport,In RP
+SLC2A7,Small Molecule Transport,In RP
+SLC2A8,Small Molecule Transport,In RP
+SLC2A9,Small Molecule Transport,In RP
+SLC32A1,Small Molecule Transport,In RP
+SLC33A1,Small Molecule Transport,In RP
+SLC34A1,Small Molecule Transport,In RP
+SLC34A2,Small Molecule Transport,In RP
+SLC34A3,Small Molecule Transport,In RP
+SLC35A1,Small Molecule Transport,In RP
+SLC35A2,Small Molecule Transport,In RP
+SLC35A3,Small Molecule Transport,In RP
+SLC35A4,Small Molecule Transport,In RP
+SLC35A5,Small Molecule Transport,In RP
+SLC35B1,Small Molecule Transport,In RP
+SLC35B2,Small Molecule Transport,In RP
+SLC35B3,Small Molecule Transport,In RP
+SLC35B4,Small Molecule Transport,In RP
+SLC35C1,Small Molecule Transport,In RP
+SLC35C2,Small Molecule Transport,In RP
+SLC35D1,Small Molecule Transport,In RP
+SLC35D2,Small Molecule Transport,In RP
+SLC35D3,Small Molecule Transport,In RP
+SLC35E1,Small Molecule Transport,In RP
+SLC35E2,Small Molecule Transport,In RP
+SLC35E3,Small Molecule Transport,In RP
+SLC35E4,Small Molecule Transport,In RP
+SLC35F1,Small Molecule Transport,In RP
+SLC35F2,Small Molecule Transport,In RP
+SLC35F3,Small Molecule Transport,In RP
+SLC35F4,Small Molecule Transport,In RP
+SLC35F5,Small Molecule Transport,In RP
+SLC36A1,Small Molecule Transport,In RP
+SLC36A2,Small Molecule Transport,In RP
+SLC36A3,Small Molecule Transport,In RP
+SLC36A4,Small Molecule Transport,In RP
+SLC37A1,Small Molecule Transport,In RP
+SLC37A2,Small Molecule Transport,In RP
+SLC37A3,Small Molecule Transport,In RP
+SLC37A4,Small Molecule Transport,In RP
+SLC38A1,Small Molecule Transport,In RP
+SLC38A2,Small Molecule Transport,In RP
+SLC38A3,Small Molecule Transport,In RP
+SLC38A4,Small Molecule Transport,In RP
+SLC38A5,Small Molecule Transport,In RP
+SLC38A6,Small Molecule Transport,In RP
+SLC38A7,Small Molecule Transport,In RP
+SLC43A1,Small Molecule Transport,In RP
+SLC43A2,Small Molecule Transport,In RP
+SLC43A3,Small Molecule Transport,In RP
+SLC44A1,Small Molecule Transport,In RP
+SLC44A2,Small Molecule Transport,In RP
+SLC44A3,Small Molecule Transport,In RP
+SLC44A4,Small Molecule Transport,In RP
+SLC44A5,Small Molecule Transport,In RP
+SLC45A1,Small Molecule Transport,In RP
+SLC45A2,Small Molecule Transport,In RP
+SLC45A3,Small Molecule Transport,In RP
+SLC45A4,Small Molecule Transport,In RP
+SLC46A1,Small Molecule Transport,In RP
+SLC46A2,Small Molecule Transport,In RP
+SLC46A3,Small Molecule Transport,In RP
+SLC47A1,Small Molecule Transport,In RP
+SLC47A2,Small Molecule Transport,In RP
+SLC4A1,Small Molecule Transport,In RP
+SLC4A10,Small Molecule Transport,In RP
+SLC4A11,Small Molecule Transport,In RP
+SLC4A1AP,Small Molecule Transport,In RP
+SLC4A2,Small Molecule Transport,In RP
+SLC4A3,Small Molecule Transport,In RP
+SLC4A4,Small Molecule Transport,In RP
+SLC4A5,Small Molecule Transport,In RP
+SLC4A7,Small Molecule Transport,In RP
+SLC4A8,Small Molecule Transport,In RP
+SLC4A9,Small Molecule Transport,In RP
+SLC5A1,Small Molecule Transport,In RP
+SLC5A10,Small Molecule Transport,In RP
+SLC5A11,Small Molecule Transport,In RP
+SLC5A12,Small Molecule Transport,In RP
+SLC5A2,Small Molecule Transport,In RP
+SLC5A3,Small Molecule Transport,In RP
+SLC5A4,Small Molecule Transport,In RP
+SLC5A5,Small Molecule Transport,In RP
+SLC5A6,Small Molecule Transport,In RP
+SLC5A7,Small Molecule Transport,In RP
+SLC5A8,Small Molecule Transport,In RP
+SLC5A9,Small Molecule Transport,In RP
+SLC6A1,Small Molecule Transport,In RP
+SLC6A11,Small Molecule Transport,In RP
+SLC6A12,Small Molecule Transport,In RP
+SLC6A13,Small Molecule Transport,In RP
+SLC6A14,Small Molecule Transport,In RP
+SLC6A15,Small Molecule Transport,In RP
+SLC6A16,Small Molecule Transport,In RP
+SLC6A17,Small Molecule Transport,In RP
+SLC6A18,Small Molecule Transport,In RP
+SLC6A19,Small Molecule Transport,In RP
+SLC6A2,Small Molecule Transport,In RP
+SLC6A20,Small Molecule Transport,In RP
+SLC6A3,Small Molecule Transport,In RP
+SLC6A4,Small Molecule Transport,In RP
+SLC6A5,Small Molecule Transport,In RP
+SLC6A6,Small Molecule Transport,In RP
+SLC6A7,Small Molecule Transport,In RP
+SLC6A8,Small Molecule Transport,In RP
+SLC6A9,Small Molecule Transport,In RP
+SLC7A1,Small Molecule Transport,In RP
+SLC7A10,Small Molecule Transport,In RP
+SLC7A11,Small Molecule Transport,In RP
+SLC7A13,Small Molecule Transport,In RP
+SLC7A14,Small Molecule Transport,In RP
+SLC7A2,Small Molecule Transport,In RP
+SLC7A3,Small Molecule Transport,In RP
+SLC7A4,Small Molecule Transport,In RP
+SLC7A5,Small Molecule Transport,In RP
+SLC7A6,Small Molecule Transport,In RP
+SLC7A7,Small Molecule Transport,In RP
+SLC7A8,Small Molecule Transport,In RP
+SLC7A9,Small Molecule Transport,In RP
+SLC8A1,Small Molecule Transport,In RP
+SLC8A2,Small Molecule Transport,In RP
+SLC8A3,Small Molecule Transport,In RP
+SLC9A1,Small Molecule Transport,In RP
+SLC9A10,Small Molecule Transport,In RP
+SLC9A11,Small Molecule Transport,In RP
+SLC9A2,Small Molecule Transport,In RP
+SLC9A3,Small Molecule Transport,In RP
+SLC9A4,Small Molecule Transport,In RP
+SLC9A5,Small Molecule Transport,In RP
+SLC9A6,Small Molecule Transport,In RP
+SLC9A7,Small Molecule Transport,In RP
+SLC9A8,Small Molecule Transport,In RP
+SLC9A9,Small Molecule Transport,In RP
+SLCO1A2,Small Molecule Transport,In RP
+SLCO1B1,Small Molecule Transport,In RP
+SLCO1B3,Small Molecule Transport,In RP
+SLCO1C1,Small Molecule Transport,In RP
+SLCO2A1,Small Molecule Transport,In RP
+SLCO2B1,Small Molecule Transport,In RP
+SLCO3A1,Small Molecule Transport,In RP
+SLCO4A1,Small Molecule Transport,In RP
+SLCO4C1,Small Molecule Transport,In RP
+SLCO5A1,Small Molecule Transport,In RP
+SLCO6A1,Small Molecule Transport,In RP
+MIP,Small Molecule Transport,In RP
+NPC1,Small Molecule Transport,In RP
+NPC1L1,Small Molecule Transport,In RP
+NPC2,Small Molecule Transport,In RP
+PCTP,Small Molecule Transport,In RP
+RHAG,Small Molecule Transport,In RP
+RHBG,Small Molecule Transport,In RP
+RHCG,Small Molecule Transport,In RP
+SFXN1,Small Molecule Transport,In RP
+SFXN2,Small Molecule Transport,In RP
+SFXN3,Small Molecule Transport,In RP
+SFXN4,Small Molecule Transport,In RP
+SFXN5,Small Molecule Transport,In RP
+SPNS1,Small Molecule Transport,In RP
+STAR,Small Molecule Transport,In RP
+STARD10,Small Molecule Transport,In RP
+STARD13,Small Molecule Transport,In RP
+STARD3,Small Molecule Transport,In RP
+STARD3NL,Small Molecule Transport,In RP
+STARD4,Small Molecule Transport,In RP
+STARD5,Small Molecule Transport,In RP
+STARD6,Small Molecule Transport,In RP
+STARD7,Small Molecule Transport,In RP
+STARD8,Small Molecule Transport,In RP
+STARD9,Small Molecule Transport,In RP
+SV2A,Small Molecule Transport,In RP
+SV2B,Small Molecule Transport,In RP
+SV2C,Small Molecule Transport,In RP
+SVOP,Small Molecule Transport,In RP
+CERK,Sphingolipid,In RP
+CERKL,Sphingolipid,In RP
+DEGS1,Sphingolipid,In RP
+DEGS2,Sphingolipid,In RP
+GALC,Sphingolipid,In RP
+LASS1,Sphingolipid,In RP
+LASS2,Sphingolipid,In RP
+LASS3,Sphingolipid,In RP
+LASS4,Sphingolipid,In RP
+LASS5,Sphingolipid,In RP
+LASS6,Sphingolipid,In RP
+SGMS1,Sphingolipid,In RP
+SGMS2,Sphingolipid,In RP
+SGPL1,Sphingolipid,In RP
+SGPP1,Sphingolipid,In RP
+SGPP2,Sphingolipid,In RP
+SMPD1,Sphingolipid,In RP
+SMPD2,Sphingolipid,In RP
+SMPD3,Sphingolipid,In RP
+SMPD4,Sphingolipid,In RP
+SMPDL3A,Sphingolipid,In RP
+SMPDL3B,Sphingolipid,In RP
+SPHK1,Sphingolipid,In RP
+SPHK2,Sphingolipid,In RP
+SPTLC1,Sphingolipid,In RP
+SPTLC2,Sphingolipid,In RP
+SPTLC3,Sphingolipid,In RP
+UGCG,Sphingolipid,In RP
+UGCGL1,Sphingolipid,In RP
+UGCGL2,Sphingolipid,In RP
+UGT8,Sphingolipid,In RP
+ACER1,Sphingosine,In RP
+ACER2,Sphingosine,In RP
+ACER3,Sphingosine,In RP
+ASAH1,Sphingosine,In RP
+ASAH2,Sphingosine,In RP
+ASAH2B,Sphingosine,In RP
+ASAH2C,Sphingosine,In RP
+ASAHL,Sphingosine,In RP
+KDSR,Sphingosine,In RP
+AKR1C4,Steroid,In RP
+AKR1D1,Steroid,In RP
+CH25H,Steroid,In RP
+CYP11A1,Steroid,In RP
+CYP11B1,Steroid,In RP
+CYP11B2,Steroid,In RP
+CYP17A1,Steroid,In RP
+CYP19A1,Steroid,In RP
+CYP1A1,Steroid,In RP
+CYP1A2,Steroid,In RP
+CYP1B1,Steroid,In RP
+CYP21A2,Steroid,In RP
+CYP27C1,Steroid,In RP
+CYP2A13,Steroid,In RP
+CYP2A6,Steroid,In RP
+CYP2A7,Steroid,In RP
+CYP2B6,Steroid,In RP
+CYP2C18,Steroid,In RP
+CYP2C19,Steroid,In RP
+CYP2C8,Steroid,In RP
+CYP2C9,Steroid,In RP
+CYP2D6,Steroid,In RP
+CYP2E1,Steroid,In RP
+CYP2F1,Steroid,In RP
+CYP2J2,Steroid,In RP
+CYP2R1,Steroid,In RP
+CYP2S1,Steroid,In RP
+CYP2U1,Steroid,In RP
+CYP2W1,Steroid,In RP
+CYP39A1,Steroid,In RP
+CYP3A4,Steroid,In RP
+CYP3A43,Steroid,In RP
+CYP3A5,Steroid,In RP
+CYP3A7,Steroid,In RP
+CYP46A1,Steroid,In RP
+GGPS1,Steroid,In RP
+HSD11B1,Steroid,In RP
+HSD11B1L,Steroid,In RP
+HSD11B2,Steroid,In RP
+HSD17B1,Steroid,In RP
+HSD17B10,Steroid,In RP
+HSD17B11,Steroid,In RP
+HSD17B12,Steroid,In RP
+HSD17B13,Steroid,In RP
+HSD17B14,Steroid,In RP
+HSD17B2,Steroid,In RP
+HSD17B3,Steroid,In RP
+HSD17B4,Steroid,In RP
+HSD17B6,Steroid,In RP
+HSD17B8,Steroid,In RP
+HSD3B1,Steroid,In RP
+HSD3B2,Steroid,In RP
+HSDL1,Steroid,In RP
+HSDL2,Steroid,In RP
+KL,Steroid,In RP
+KLB,Steroid,In RP
+LIPA,Steroid,In RP
+LIPE,Steroid,In RP
+SOAT1,Steroid,In RP
+SOAT2,Steroid,In RP
+SRD5A1,Steroid,In RP
+SRD5A2,Steroid,In RP
+SRD5A2L2,Steroid,In RP
+SRD5A3,Steroid,In RP
+AGK,Sugar,In RP
+AGL,Sugar,In RP
+AMY1A,Sugar,In RP
+AMY1B,Sugar,In RP
+AMY1C,Sugar,In RP
+AMY2A,Sugar,In RP
+AMY2B,Sugar,In RP
+C9ORF103,Sugar,In RP
+CRYL1,Sugar,In RP
+FPGT,Sugar,In RP
+FUK,Sugar,In RP
+GAA,Sugar,In RP
+GALK1,Sugar,In RP
+GALK2,Sugar,In RP
+GALM,Sugar,In RP
+GALT,Sugar,In RP
+GFOD1,Sugar,In RP
+GFOD2,Sugar,In RP
+GLYCTK,Sugar,In RP
+GMDS,Sugar,In RP
+GMPPA,Sugar,In RP
+GMPPB,Sugar,In RP
+GRHPR,Sugar,In RP
+H6PD,Sugar,In RP
+HYI,Sugar,In RP
+KHK,Sugar,In RP
+LALBA,Sugar,In RP
+LCT,Sugar,In RP
+LCTL,Sugar,In RP
+MGAM,Sugar,In RP
+MPI,Sugar,In RP
+PMM1,Sugar,In RP
+PMM2,Sugar,In RP
+PYGB,Sugar,In RP
+PYGL,Sugar,In RP
+PYGM,Sugar,In RP
+RBKS,Sugar,In RP
+SI,Sugar,In RP
+SIAE,Sugar,In RP
+SORD,Sugar,In RP
+TREH,Sugar,In RP
+TSTA3,Sugar,In RP
+DSE,Sulfate,In RP
+DSEL,Sulfate,In RP
+GALNAC4S-6ST,Sulfate,In RP
+MPST,Sulfate,In RP
+PAPSS1,Sulfate,In RP
+PAPSS2,Sulfate,In RP
+SRXN1,Sulfate,In RP
+STS,Sulfate,In RP
+SULT1A1,Sulfate,In RP
+SULT1A2,Sulfate,In RP
+SULT1A3,Sulfate,In RP
+SULT1A4,Sulfate,In RP
+SULT1B1,Sulfate,In RP
+SULT1C2,Sulfate,In RP
+SULT1C3,Sulfate,In RP
+SULT1C4,Sulfate,In RP
+SULT1E1,Sulfate,In RP
+SULT2A1,Sulfate,In RP
+SULT2B1,Sulfate,In RP
+SULT4A1,Sulfate,In RP
+SULT6B1,Sulfate,In RP
+TST,Sulfate,In RP
+ACMSD,Tryptophan,In RP
+AFMID,Tryptophan,In RP
+HAAO,Tryptophan,In RP
+IDO1,Tryptophan,In RP
+IDO2,Tryptophan,In RP
+INMT,Tryptophan,In RP
+KMO,Tryptophan,In RP
+KYNU,Tryptophan,In RP
+TDO2,Tryptophan,In RP
+FAH,Tyrosine,In RP
+FAHD1,Tyrosine,In RP
+FAHD2A,Tyrosine,In RP
+FAHD2B,Tyrosine,In RP
+HGD,Tyrosine,In RP
+HPD,Tyrosine,In RP
+HPDL,Tyrosine,In RP
+PAH,Tyrosine,In RP
+TAT,Tyrosine,In RP
+CABC1,Ubiquinone,In RP
+COQ10A,Ubiquinone,In RP
+COQ10B,Ubiquinone,In RP
+COQ2,Ubiquinone,In RP
+COQ3,Ubiquinone,In RP
+COQ4,Ubiquinone,In RP
+COQ5,Ubiquinone,In RP
+COQ6,Ubiquinone,In RP
+COQ7,Ubiquinone,In RP
+COQ9,Ubiquinone,In RP
+PDSS1,Ubiquinone,In RP
+PDSS2,Ubiquinone,In RP
+SQRDL,Ubiquinone,In RP
+AGMAT,Urea,In RP
+ARG1,Urea,In RP
+ARG2,Urea,In RP
+ASL,Urea,In RP
+ASS1,Urea,In RP
+CPS1,Urea,In RP
+OTC,Urea,In RP
+BCMO1,Vitamin A,In RP
+BCO2,Vitamin A,In RP
+CYP26A1,Vitamin A,In RP
+CYP26B1,Vitamin A,In RP
+CYP26C1,Vitamin A,In RP
+LRAT,Vitamin A,In RP
+RDH10,Vitamin A,In RP
+RDH11,Vitamin A,In RP
+RDH12,Vitamin A,In RP
+RDH13,Vitamin A,In RP
+RDH14,Vitamin A,In RP
+RDH16,Vitamin A,In RP
+RDH5,Vitamin A,In RP
+RDH8,Vitamin A,In RP
+RETSAT,Vitamin A,In RP
+RPE65,Vitamin A,In RP
+SDR16C5,Vitamin A,In RP
+PDXK,Vitamin B6,In RP
+PDXP,Vitamin B6,In RP
+PHOSPHO2,Vitamin B6,In RP
+PNPO,Vitamin B6,In RP
+DCXR,Xyulose,In RP
+XYLB,Xyulose,In RP
+AOC1,Multipurpose,"Missing from RP, in JL"
+CTPS1,Pyrimidine,"Missing from RP, in JL"
+ECI1,Fatty Acid,"Missing from RP, in JL"
+DLST,Krebs,"Missing from RP, in JL"
+PNP,Purine,"Missing from RP, in JL"
+RARS,Other,"Missing from RP, in JL"
+MSMO1,Cholesterol,"Missing from RP, in JL"
+SC5D,Cholesterol,"Missing from RP, in JL"
+MOGS,Glycan,"Missing from RP, in JL"
+TECR,Fatty Acid,"Missing from RP, in JL"
+ECI2,Fatty Acid,"Missing from RP, in JL"
+CERS1,Sphingolipid,"Missing from RP, in JL"
+B4GAT1,Glycan,"Missing from RP, in JL"
+COLGALT2,Glycan,"Missing from RP, in JL"
+KCNE5,Ion Transport,"Missing from RP, in JL"
+NAAA,Sphingosine,"Missing from RP, in JL"
+HPGDS,Hormone,"Missing from RP, in JL"
+CERS2,Sphingolipid,"Missing from RP, in JL"
+PSAT1,Serine,"Missing from RP, in JL"
+NAA20,Multipurpose,"Missing from RP, in JL"
+NT5C3A,Nucleotide,"Missing from RP, in JL"
+CHST15,Sulfate,"Missing from RP, in JL"
+MSRB1,Methionine,"Missing from RP, in JL"
+UGGT2,Sphingolipid,"Missing from RP, in JL"
+UGGT1,Sphingolipid,"Missing from RP, in JL"
+RARS2,Other,"Missing from RP, in JL"
+GALNT16,Glycan,"Missing from RP, in JL"
+NCEH1,Detox,"Missing from RP, in JL"
+NAA35,Multipurpose,"Missing from RP, in JL"
+SLC17A9,Ion Transport,"Missing from RP, in JL"
+ENGASE,Glycan Degradation,"Missing from RP, in JL"
+ETNPPL,Amino Acid,"Missing from RP, in JL"
+CERS4,Sphingolipid,"Missing from RP, in JL"
+COLGALT1,Glycan,"Missing from RP, in JL"
+NAA40,Multipurpose,"Missing from RP, in JL"
+EPHX3,Multipurpose,"Missing from RP, in JL"
+NAA60,Multipurpose,"Missing from RP, in JL"
+LPPR3,Membrane Lipid,"Missing from RP, in JL"
+SLC8B1,Ion Transport,"Missing from RP, in JL"
+NAA50,Multipurpose,"Missing from RP, in JL"
+AKR1E2,Multipurpose,"Missing from RP, in JL"
+MFSD2A,Other Transport,"Missing from RP, in JL"
+PHYKPL,Amino Acid,"Missing from RP, in JL"
+CERS5,Sphingolipid,"Missing from RP, in JL"
+SLC25A51,Other Transport,"Missing from RP, in JL"
+NAPRT,NAD,"Missing from RP, in JL"
+AZIN2,Amino Acid,"Missing from RP, in JL"
+NT5C3B,Nucleotide,"Missing from RP, in JL"
+SLC18B1,Ion Transport,"Missing from RP, in JL"
+GALNT15,Glycan,"Missing from RP, in JL"
+NAA30,Multipurpose,"Missing from RP, in JL"
+SLC51B,Other Transport,"Missing from RP, in JL"
+HYKK,Other,"Missing from RP, in JL"
+SLC25A52,Other Transport,"Missing from RP, in JL"
+AWAT1,Fatty Acid,"Missing from RP, in JL"
+AWAT2,Fatty Acid,"Missing from RP, in JL"
+LPPR5,Membrane Lipid,"Missing from RP, in JL"
+SLC51A,Other Transport,"Missing from RP, in JL"
+CERS3,Sphingolipid,"Missing from RP, in JL"
+CYB561A3,Redox,"Missing from RP, in JL"
+CES5A,Detox,"Missing from RP, in JL"
+NAPEPLD,Membrane Lipid,"Missing from RP, in JL"
+TECRL,Steroid,"Missing from RP, in JL"
+EPHX4,Multipurpose,"Missing from RP, in JL"
+LCLAT1,Glycan,"Missing from RP, in JL"
+CERS6,Sphingolipid,"Missing from RP, in JL"
+GXYLT1,Glycan,"Missing from RP, in JL"
+SLC25A47,Ion Transport,"Missing from RP, in JL"
+SLC9C2,Small Molecule Transport,"Missing from RP, in JL"
+SLC9C1,Small Molecule Transport,"Missing from RP, in JL"
+SLCO1B7,Ion Transport,"Missing from RP, in JL"
+GALNT18,Glycan,"Missing from RP, in JL"
+SLC22A25,Ion Transport,"Missing from RP, in JL"
+SLC25A53,Other Transport,"Missing from RP, in JL"
+AKR1B15,Multipurpose,"Missing from RP, in JL"
+GXYLT2,Glycan,"Missing from RP, in JL"
+BLMH,Other,"Missing from RP, in JL"
+PAFAH2,Other,"Missing from RP, in JL"
+RARRES3,Other,"Missing from RP, in JL"
+ACAP1,Other,"Missing from RP, in JL"
+UQCR11,Complex III,"Missing from RP, in JL"
+AGTPBP1,Other,"Missing from RP, in JL"
+LGALS13,Other,"Missing from RP, in JL"
+UQCR10,Complex III,"Missing from RP, in JL"
+AZIN1,Other,"Missing from RP, in JL"
+BCO1,Vitamin A,"Missing from RP, in JL"
+2-Mar,Other,"Missing from RP, in JL"
+ACOT13,Other,"Missing from RP, in JL"
+SDHAF3,Other,"Missing from RP, in JL"
+AGBL5,Other,"Missing from RP, in JL"
+1-Mar,Other,"Missing from RP, in JL"
+AGBL2,Other,"Missing from RP, in JL"
+AGBL4,Other,"Missing from RP, in JL"
+AGBL1,Other,"Missing from RP, in JL"
+PROCA1,Other,"Missing from RP, in JL"
+AGBL3,Other,"Missing from RP, in JL"
+OC90,Other,"Missing from RP, in JL"
+SCO2,Complex II,"Missing from RP+JL, in KB"
+PKM,Glycolysis,"Missing from RP+JL, in KB"
+NRF1,Metabolite sensing,"Missing from RP+JL, in KB"
+PLIN5,Lipid droplet,"Missing from RP+JL, in KB"
+APOH,Lipoproteins,"Missing from RP+JL, in KB"
+BCS1L,Complex III,"Missing from RP+JL, in KB"
+SCAP,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+MLXIP,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+GPIHBP1,Lipoproteins,"Missing from RP+JL, in KB"
+GCKR,Glycolysis,"Missing from RP+JL, in KB"
+ALKBH1,aKG dependent enzymes,"Missing from RP+JL, in KB"
+IL6,,"Missing from RP+JL, in KB"
+ARNT2,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+ALKBH2,aKG dependent enzymes,"Missing from RP+JL, in KB"
+SIRT7,Sirtuin,"Missing from RP+JL, in KB"
+LEPREL2,aKG dependent enzymes,"Missing from RP+JL, in KB"
+PDK1,Metabolic enzyme modifying protein,"Missing from RP+JL, in KB"
+NR1H3,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+SERPINA1,,"Missing from RP+JL, in KB"
+PMP2,Metabolite sensing,"Missing from RP+JL, in KB"
+P4HA2,aKG dependent enzymes,"Missing from RP+JL, in KB"
+PGP,Glycolysis,"Missing from RP+JL, in KB"
+40237,,"Missing from RP+JL, in KB"
+SIRT5,Sirtuin,"Missing from RP+JL, in KB"
+ASIC2,Ion Transport,"Missing from RP+JL, in KB"
+FADS6,Membrane Lipid,"Missing from RP+JL, in KB"
+QSOX2,Redox,"Missing from RP+JL, in KB"
+CNEP1R1,Fatty Acid,"Missing from RP+JL, in KB"
+PDXDC1,Other,"Missing from RP+JL, in KB"
+MSR1,Lipoproteins,"Missing from RP+JL, in KB"
+ATPIF1,ATPase,"Missing from RP+JL, in KB"
+PPIP5K1,Inositol Phosphate,"Missing from RP+JL, in KB"
+KDM2B,aKG dependent enzymes,"Missing from RP+JL, in KB"
+AIFM2,Redox,"Missing from RP+JL, in KB"
+APOA4,Lipoproteins,"Missing from RP+JL, in KB"
+LOXL2,Lysine,"Missing from RP+JL, in KB"
+LEPREL1,aKG dependent enzymes,"Missing from RP+JL, in KB"
+GLYR1,Redox,"Missing from RP+JL, in KB"
+HIF3A,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+KDM5A,aKG dependent enzymes,"Missing from RP+JL, in KB"
+DOHH,Lysine,"Missing from RP+JL, in KB"
+CRP,Metabolite sensing,"Missing from RP+JL, in KB"
+NXNL2,Redox,"Missing from RP+JL, in KB"
+CD36,Small Molecule Transport,"Missing from RP+JL, in KB"
+EHD1,,"Missing from RP+JL, in KB"
+SIRT6,Sirtuin,"Missing from RP+JL, in KB"
+AIFM1,Redox,"Missing from RP+JL, in KB"
+CHKB,Membrane Lipid,"Missing from RP+JL, in KB"
+CTBP1,Other,"Missing from RP+JL, in KB"
+RNLS,Other,"Missing from RP+JL, in KB"
+ASIC1,Ion Transport,"Missing from RP+JL, in KB"
+ACVR1C,TGFb,"Missing from RP+JL, in KB"
+VAMP7,Lysosome,"Missing from RP+JL, in KB"
+KDM4D,aKG dependent enzymes,"Missing from RP+JL, in KB"
+EDN1,,"Missing from RP+JL, in KB"
+NAMPT,NAD,"Missing from RP+JL, in KB"
+KDM3A,aKG dependent enzymes,"Missing from RP+JL, in KB"
+PRG3,,"Missing from RP+JL, in KB"
+STAT5B,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+MYC,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+TET1,aKG dependent enzymes,"Missing from RP+JL, in KB"
+P4HA1,aKG dependent enzymes,"Missing from RP+JL, in KB"
+LHPP,Other,"Missing from RP+JL, in KB"
+PXDNL,,"Missing from RP+JL, in KB"
+GFER,Redox,"Missing from RP+JL, in KB"
+KDM6B,aKG dependent enzymes,"Missing from RP+JL, in KB"
+HILPDA,Lipid droplet,"Missing from RP+JL, in KB"
+KDM4E,aKG dependent enzymes,"Missing from RP+JL, in KB"
+DUS4L,Other,"Missing from RP+JL, in KB"
+TET3,aKG dependent enzymes,"Missing from RP+JL, in KB"
+MPC1,Small Molecule Transport,"Missing from RP+JL, in KB"
+RSAD1,Porphyrin,"Missing from RP+JL, in KB"
+FTO,aKG dependent enzymes,"Missing from RP+JL, in KB"
+C19orf80,Fatty Acid,"Missing from RP+JL, in KB"
+LOXL4,Lysine,"Missing from RP+JL, in KB"
+LDLR,Lipoproteins,"Missing from RP+JL, in KB"
+PLOD3,aKG dependent enzymes,"Missing from RP+JL, in KB"
+PTGFRN,Other,"Missing from RP+JL, in KB"
+ASIC5,Ion Transport,"Missing from RP+JL, in KB"
+APOO,Lipoproteins,"Missing from RP+JL, in KB"
+SNCA,Mitochondrial morphology and function,"Missing from RP+JL, in KB"
+INSIG1,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+INSIG2,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+TNF,,"Missing from RP+JL, in KB"
+TET2,aKG dependent enzymes,"Missing from RP+JL, in KB"
+CIDEC,,"Missing from RP+JL, in KB"
+APOC3,Lipoproteins,"Missing from RP+JL, in KB"
+LOXL3,Lysine,"Missing from RP+JL, in KB"
+ITGB3,Small Molecule Transport,"Missing from RP+JL, in KB"
+SPG20,Mitochondrial morphology and function,"Missing from RP+JL, in KB"
+MPC2,Small Molecule Transport,"Missing from RP+JL, in KB"
+KDM3B,aKG dependent enzymes,"Missing from RP+JL, in KB"
+SIRT4,Sirtuin,"Missing from RP+JL, in KB"
+VAT1,Small Molecule Transport,"Missing from RP+JL, in KB"
+AK4,Nucleotide,"Missing from RP+JL, in KB"
+APOA1,Lipoproteins,"Missing from RP+JL, in KB"
+KDM5D,aKG dependent enzymes,"Missing from RP+JL, in KB"
+IRG1,Itaconate,"Missing from RP+JL, in KB"
+THRSP,Fatty Acid,"Missing from RP+JL, in KB"
+ADIPOQ,Fatty Acid,"Missing from RP+JL, in KB"
+MIF,Other,"Missing from RP+JL, in KB"
+P4HA3,aKG dependent enzymes,"Missing from RP+JL, in KB"
+APOC1,Lipoproteins,"Missing from RP+JL, in KB"
+APOM,Lipoproteins,"Missing from RP+JL, in KB"
+COQ8A,Ubiquinone,"Missing from RP+JL, in KB"
+SIRT1,Sirtuin,"Missing from RP+JL, in KB"
+SCARB1,Lipoproteins,"Missing from RP+JL, in KB"
+APOE,Lipoproteins,"Missing from RP+JL, in KB"
+LSR,Lipoproteins,"Missing from RP+JL, in KB"
+KEAP1,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+ARNT,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+IDNK,Other,"Missing from RP+JL, in KB"
+MTF1,Metabolite sensing,"Missing from RP+JL, in KB"
+NR1H2,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+FOXO1,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+KDM8,aKG dependent enzymes,"Missing from RP+JL, in KB"
+KDM5C,aKG dependent enzymes,"Missing from RP+JL, in KB"
+ANKRD23,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+ANGPTL4,Signalling,"Missing from RP+JL, in KB"
+PLOD1,aKG dependent enzymes,"Missing from RP+JL, in KB"
+APOF,Lipoproteins,"Missing from RP+JL, in KB"
+TXNIP,Small Molecule Transport,"Missing from RP+JL, in KB"
+KDM2A,aKG dependent enzymes,"Missing from RP+JL, in KB"
+APOBR,Lipoproteins,"Missing from RP+JL, in KB"
+ASPDH,Other,"Missing from RP+JL, in KB"
+LMF1,Lipoproteins,"Missing from RP+JL, in KB"
+HNF4A,Lipoproteins,"Missing from RP+JL, in KB"
+NXN,Redox,"Missing from RP+JL, in KB"
+MOXD1,Redox,"Missing from RP+JL, in KB"
+FAM213B,Signalling,"Missing from RP+JL, in KB"
+GIP,Hormone,"Missing from RP+JL, in KB"
+APOL1,Lipoproteins,"Missing from RP+JL, in KB"
+DBI,Metabolite sensing,"Missing from RP+JL, in KB"
+HIF1AN,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+UTY,aKG dependent enzymes,"Missing from RP+JL, in KB"
+PLIN1,Lipid droplet,"Missing from RP+JL, in KB"
+LOXL1,Lysine,"Missing from RP+JL, in KB"
+STAT5A,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+CKMT1A,Creatine,"Missing from RP+JL, in KB"
+MINA,aKG dependent enzymes,"Missing from RP+JL, in KB"
+JMJD6,aKG dependent enzymes,"Missing from RP+JL, in KB"
+AIFM3,Redox,"Missing from RP+JL, in KB"
+CAV3,Membrane Lipid,"Missing from RP+JL, in KB"
+EDN2,Hormone,"Missing from RP+JL, in KB"
+IL4I1,Amino Acid,"Missing from RP+JL, in KB"
+P4HTM,aKG dependent enzymes,"Missing from RP+JL, in KB"
+APOA5,Lipoproteins,"Missing from RP+JL, in KB"
+KDM4C,aKG dependent enzymes,"Missing from RP+JL, in KB"
+AGMO,Membrane Lipid,"Missing from RP+JL, in KB"
+APOA2,Lipoproteins,"Missing from RP+JL, in KB"
+FABP4,Small Molecule Transport,"Missing from RP+JL, in KB"
+CIDEA,,"Missing from RP+JL, in KB"
+ALMS1,Cilia,"Missing from RP+JL, in KB"
+ULK1,Autophagy,"Missing from RP+JL, in KB"
+IL1B,,"Missing from RP+JL, in KB"
+KDM1A,aKG dependent enzymes,"Missing from RP+JL, in KB"
+LEP,Hormone,"Missing from RP+JL, in KB"
+KDM4A,aKG dependent enzymes,"Missing from RP+JL, in KB"
+EGLN1,aKG dependent enzymes,"Missing from RP+JL, in KB"
+FCER1A,,"Missing from RP+JL, in KB"
+CIDEB,,"Missing from RP+JL, in KB"
+PHF2,aKG dependent enzymes,"Missing from RP+JL, in KB"
+PLIN2,Lipid droplet,"Missing from RP+JL, in KB"
+PDK2,Metabolic enzyme modifying protein,"Missing from RP+JL, in KB"
+TYW5,Other,"Missing from RP+JL, in KB"
+MLXIPL,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+HOGA1,Proline,"Missing from RP+JL, in KB"
+FTH1,Metals,"Missing from RP+JL, in KB"
+APOC2,Lipoproteins,"Missing from RP+JL, in KB"
+PHF8,aKG dependent enzymes,"Missing from RP+JL, in KB"
+FABP1,Small Molecule Transport,"Missing from RP+JL, in KB"
+PPIP5K2,Inositol Phosphate,"Missing from RP+JL, in KB"
+FTMT,Metals,"Missing from RP+JL, in KB"
+ZC3H12A,,"Missing from RP+JL, in KB"
+PLP1,Membrane Lipid,"Missing from RP+JL, in KB"
+ANGPTL3,Signalling,"Missing from RP+JL, in KB"
+HTATIP2,Redox,"Missing from RP+JL, in KB"
+QSOX1,Redox,"Missing from RP+JL, in KB"
+SREBF2,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+RAB18,,"Missing from RP+JL, in KB"
+FABP7,Small Molecule Transport,"Missing from RP+JL, in KB"
+C1QTNF3,,"Missing from RP+JL, in KB"
+NMRK1,NAD,"Missing from RP+JL, in KB"
+BSCL2,Lipid droplet,"Missing from RP+JL, in KB"
+FABP3,Small Molecule Transport,"Missing from RP+JL, in KB"
+C3,Hormone,"Missing from RP+JL, in KB"
+FITM1,Lipid droplet,"Missing from RP+JL, in KB"
+ADIPOR2,Hormone,"Missing from RP+JL, in KB"
+KDM1B,aKG dependent enzymes,"Missing from RP+JL, in KB"
+EGLN3,aKG dependent enzymes,"Missing from RP+JL, in KB"
+SIRT3,Sirtuin,"Missing from RP+JL, in KB"
+PLIN3,Lipid droplet,"Missing from RP+JL, in KB"
+FABP12,Small Molecule Transport,"Missing from RP+JL, in KB"
+ADIPOR1,Hormone,"Missing from RP+JL, in KB"
+PIKFYVE,Membrane Lipid,"Missing from RP+JL, in KB"
+OSBPL8,Membrane Lipid,"Missing from RP+JL, in KB"
+PPARG,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+40238,,"Missing from RP+JL, in KB"
+ASPH,Other,"Missing from RP+JL, in KB"
+PLOD2,aKG dependent enzymes,"Missing from RP+JL, in KB"
+APOB,Lipoproteins,"Missing from RP+JL, in KB"
+PDK4,Metabolic enzyme modifying protein,"Missing from RP+JL, in KB"
+NKX2-3,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+C14orf169,aKG dependent enzymes,"Missing from RP+JL, in KB"
+ASIC4,Ion Transport,"Missing from RP+JL, in KB"
+ASIC3,Ion Transport,"Missing from RP+JL, in KB"
+NFKB1,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+TXNDC12,Redox,"Missing from RP+JL, in KB"
+FITM2,Lipid droplet,"Missing from RP+JL, in KB"
+CMPK1,Nucleotide,"Missing from RP+JL, in KB"
+APOC4,Lipoproteins,"Missing from RP+JL, in KB"
+CCDC102B,Other,"Missing from RP+JL, in KB"
+CETP,Lipoproteins,"Missing from RP+JL, in KB"
+EGLN2,aKG dependent enzymes,"Missing from RP+JL, in KB"
+SUMF1,Sulfate,"Missing from RP+JL, in KB"
+AK8,Nucleotide,"Missing from RP+JL, in KB"
+SSTR4,Hormone,"Missing from RP+JL, in KB"
+PPARD,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+PDK3,Metabolic enzyme modifying protein,"Missing from RP+JL, in KB"
+PIR,Metals,"Missing from RP+JL, in KB"
+PXDN,Redox,"Missing from RP+JL, in KB"
+KDM6A,aKG dependent enzymes,"Missing from RP+JL, in KB"
+SIRT2,Sirtuin,"Missing from RP+JL, in KB"
+LOX,Lysine,"Missing from RP+JL, in KB"
+GM2A,Small Molecule Transport,"Missing from RP+JL, in KB"
+ITGAV,,"Missing from RP+JL, in KB"
+NFKBIA,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+NRIP1,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+PPARA,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+TFAM,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+LEPRE1,aKG dependent enzymes,"Missing from RP+JL, in KB"
+CAV1,Membrane Lipid,"Missing from RP+JL, in KB"
+KDM4B,aKG dependent enzymes,"Missing from RP+JL, in KB"
+FABP6,Small Molecule Transport,"Missing from RP+JL, in KB"
+SREBF1,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+DUS1L,Other,"Missing from RP+JL, in KB"
+TNFRSF1A,,"Missing from RP+JL, in KB"
+KDM5B,aKG dependent enzymes,"Missing from RP+JL, in KB"
+VLDLR,Lipoproteins,"Missing from RP+JL, in KB"
+TNXB,,"Missing from RP+JL, in KB"
+CPE,Hormone,"Missing from RP+JL, in KB"
+OSBPL11,Membrane Lipid,"Missing from RP+JL, in KB"
+HDHD1,Other,"Missing from RP+JL, in KB"
+FABP9,Small Molecule Transport,"Missing from RP+JL, in KB"
+PLIN4,Lipid droplet,"Missing from RP+JL, in KB"
+VAT1L,Small Molecule Transport,"Missing from RP+JL, in KB"
+HIF1A,Metabolism linked transcription factors,"Missing from RP+JL, in KB"
+DUS3L,Other,"Missing from RP+JL, in KB"
+SELENOS,Peptide degradation,"Missing from RP+JL, in KB"
+LRPPRC,Metabolism linked transcription factors,"In MitoCarta, but not RP, KB or JL"
+SDHAF4,Complex II,"In MitoCarta, but not RP, KB or JL"
+HIGD2A,Complex IV,"In MitoCarta, but not RP, KB or JL"
+LETM1,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+IMMT,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+SURF1,Complex IV,"In MitoCarta, but not RP, KB or JL"
+GHITM,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+LYRM4,Metals,"In MitoCarta, but not RP, KB or JL"
+SDHAF2,Complex II,"In MitoCarta, but not RP, KB or JL"
+TXN2,Redox,"In MitoCarta, but not RP, KB or JL"
+MTCH2,Small Molecule Transport,"In MitoCarta, but not RP, KB or JL"
+MINOS1,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+PITRM1,Peptide degradation,"In MitoCarta, but not RP, KB or JL"
+UQCC1,Complex III,"In MitoCarta, but not RP, KB or JL"
+ATPAF2,Proton Transport,"In MitoCarta, but not RP, KB or JL"
+COA6,Complex IV,"In MitoCarta, but not RP, KB or JL"
+ISCU,Metals,"In MitoCarta, but not RP, KB or JL"
+BCKDK,Metabolic enzyme modifying protein,"In MitoCarta, but not RP, KB or JL"
+NDUFAF4,Complex I,"In MitoCarta, but not RP, KB or JL"
+IBA57,Metals,"In MitoCarta, but not RP, KB or JL"
+SDHAF1,Complex II,"In MitoCarta, but not RP, KB or JL"
+NDUFAF5,Complex I,"In MitoCarta, but not RP, KB or JL"
+LYRM7,Complex III,"In MitoCarta, but not RP, KB or JL"
+TRAP1,Complex I,"In MitoCarta, but not RP, KB or JL"
+ETHE1,Sulfate,"In MitoCarta, but not RP, KB or JL"
+CHCHD3,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+CHCHD10,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+SMDT1,Ion Transport,"In MitoCarta, but not RP, KB or JL"
+COX14,Complex IV,"In MitoCarta, but not RP, KB or JL"
+LYRM5,Complex I,"In MitoCarta, but not RP, KB or JL"
+LIPT2,Fatty Acid,"In MitoCarta, but not RP, KB or JL"
+MPC1L,Small Molecule Transport,"In MitoCarta, but not RP, KB or JL"
+HSCB,Metals,"In MitoCarta, but not RP, KB or JL"
+CISD1,Metals,"In MitoCarta, but not RP, KB or JL"
+SCO1,Complex IV,"In MitoCarta, but not RP, KB or JL"
+OXNAD1,Redox,"In MitoCarta, but not RP, KB or JL"
+COA5,Complex IV,"In MitoCarta, but not RP, KB or JL"
+GBAS,Sphingolipid,"In MitoCarta, but not RP, KB or JL"
+C19orf70,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+MPV17,Reactive Oxygen,"In MitoCarta, but not RP, KB or JL"
+IDE,Peptide degradation,"In MitoCarta, but not RP, KB or JL"
+MTCH1,Small Molecule Transport,"In MitoCarta, but not RP, KB or JL"
+TRIAP1,Membrane Lipid,"In MitoCarta, but not RP, KB or JL"
+MCUR1,Ion Transport,"In MitoCarta, but not RP, KB or JL"
+FMC1,Proton Transport,"In MitoCarta, but not RP, KB or JL"
+NDUFAF6,Complex I,"In MitoCarta, but not RP, KB or JL"
+XPNPEP3,Peptide degradation,"In MitoCarta, but not RP, KB or JL"
+NAXE,NAD,"In MitoCarta, but not RP, KB or JL"
+SELO,Redox,"In MitoCarta, but not RP, KB or JL"
+NDUFAF7,Complex I,"In MitoCarta, but not RP, KB or JL"
+OXLD1,Redox,"In MitoCarta, but not RP, KB or JL"
+COA3,Complex IV,"In MitoCarta, but not RP, KB or JL"
+LAP3,Peptide degradation,"In MitoCarta, but not RP, KB or JL"
+NUBPL,Complex I,"In MitoCarta, but not RP, KB or JL"
+ROMO1,Reactive Oxygen,"In MitoCarta, but not RP, KB or JL"
+HIGD1A,Complex IV,"In MitoCarta, but not RP, KB or JL"
+RHOT2,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+CISD3,Metals,"In MitoCarta, but not RP, KB or JL"
+BOLA1,Metals,"In MitoCarta, but not RP, KB or JL"
+YME1L1,Complex I,"In MitoCarta, but not RP, KB or JL"
+ATPAF1,Proton Transport,"In MitoCarta, but not RP, KB or JL"
+NDUFAF8,Complex I,"In MitoCarta, but not RP, KB or JL"
+DCAKD,CoA,"In MitoCarta, but not RP, KB or JL"
+PXMP2,Peroxisome,"In MitoCarta, but not RP, KB or JL"
+TTC19,Complex III,"In MitoCarta, but not RP, KB or JL"
+MTFR1L,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+PRELID3A,Membrane Lipid,"In MitoCarta, but not RP, KB or JL"
+MCU,Ion Transport,"In MitoCarta, but not RP, KB or JL"
+CHCHD2,Complex IV,"In MitoCarta, but not RP, KB or JL"
+PRELID1,Membrane Lipid,"In MitoCarta, but not RP, KB or JL"
+STOM,Ion Transport,"In MitoCarta, but not RP, KB or JL"
+NADK2,NAD,"In MitoCarta, but not RP, KB or JL"
+MRS2,Ion Transport,"In MitoCarta, but not RP, KB or JL"
+PXMP4,Peroxisome,"In MitoCarta, but not RP, KB or JL"
+MICU2,Ion Transport,"In MitoCarta, but not RP, KB or JL"
+NADX,NAD,"In MitoCarta, but not RP, KB or JL"
+OXR1,Reactive Oxygen,"In MitoCarta, but not RP, KB or JL"
+MTFP1,Membrane Lipid,"In MitoCarta, but not RP, KB or JL"
+COA4,Complex IV,"In MitoCarta, but not RP, KB or JL"
+SUGCT,Lysine,"In MitoCarta, but not RP, KB or JL"
+TMEM126B,Complex I,"In MitoCarta, but not RP, KB or JL"
+CISD2,Autophagy,"In MitoCarta, but not RP, KB or JL"
+FUNDC1,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+COX20,Complex IV,"In MitoCarta, but not RP, KB or JL"
+PTPMT1,Membrane Lipid,"In MitoCarta, but not RP, KB or JL"
+MTFR1,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+MCUB,Ion Transport,"In MitoCarta, but not RP, KB or JL"
+OSBPL1A,Membrane Lipid,"In MitoCarta, but not RP, KB or JL"
+PET100,Complex IV,"In MitoCarta, but not RP, KB or JL"
+GDAP1,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+COQ8B,Ubiquinone,"In MitoCarta, but not RP, KB or JL"
+TSPO,Small Molecule Transport,"In MitoCarta, but not RP, KB or JL"
+SLC25A48,Small Molecule Transport,"In MitoCarta, but not RP, KB or JL"
+MICU1,Ion Transport,"In MitoCarta, but not RP, KB or JL"
+NDUFAF3,Complex I,"In MitoCarta, but not RP, KB or JL"
+BOLA3,Metals,"In MitoCarta, but not RP, KB or JL"
+CHCHD6,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+PEX11B,Peroxisome,"In MitoCarta, but not RP, KB or JL"
+PROSC,Vitamin B6,"In MitoCarta, but not RP, KB or JL"
+CMPK2,Nucleotide,"In MitoCarta, but not RP, KB or JL"
+MFF,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+ACP6,Signalling,"In MitoCarta, but not RP, KB or JL"
+5-Mar,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+COA7,Complex I,"In MitoCarta, but not RP, KB or JL"
+COA1,Complex I,"In MitoCarta, but not RP, KB or JL"
+UQCC2,Complex III,"In MitoCarta, but not RP, KB or JL"
+ATAD3A,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+EFHD1,Redox,"In MitoCarta, but not RP, KB or JL"
+RAB32,Mitochondrial morphology and function,"In MitoCarta, but not RP, KB or JL"
+PREPL,Peptide degradation,"In MitoCarta, but not RP, KB or JL"
+NBR1,Autophagy,"In MitoCarta, but not RP, KB or JL"
+SERAC1,Membrane Lipid,"In MitoCarta, but not RP, KB or JL"
+C10orf10,Autophagy,"In MitoCarta, but not RP, KB or JL"
+TIGAR,Glycolysis,Alex Muir
+PDP1,Metabolic enzyme modifying protein,Alex Muir
+PDP2,Metabolic enzyme modifying protein,Alex Muir
+PDPR,Metabolic enzyme modifying protein,Alex Muir
+ATG5,Autophagy,Alex Muir
+ATG7,Autophagy,Alex Muir
+TPP2,Peptide degradation,Alex Muir
+THOP1,Peptide degradation,Alex Muir
+TPP1,Peptide degradation,Alex Muir
+TFEB,Metabolism linked transcription factors,Alex Muir
+CD44,Small Molecule Transport,Alex Muir
+NFE2L2,Metabolism linked transcription factors,Alex Muir
+ATF4,Metabolism linked transcription factors,Alex Muir
+PPARGC1A,Metabolism linked transcription factors,Alex Muir
+MFN2,Mitochondrial morphology and function,Alex Muir
+MFN1,Mitochondrial morphology and function,Alex Muir
+OPA1,Mitochondrial morphology and function,Alex Muir
+FIS1,Mitochondrial morphology and function,Alex Muir
+DNM1L,Mitochondrial morphology and function,Alex Muir
+STK11,Metabolic signaling,Alex Muir
+PRKAA1,Metabolite sensing,Alex Muir
+PRKAB1,Metabolite sensing,Alex Muir
+PRKAA2,Metabolite sensing,Alex Muir
+PRKAG1,Metabolite sensing,Alex Muir
+PRKAG2,Metabolite sensing,Alex Muir
+PRKAG3,Metabolite sensing,Alex Muir
+PRKAB2,Metabolite sensing,Alex Muir
+TSC2,Metabolic signaling,Alex Muir
+TSC1,Metabolic signaling,Alex Muir
+SESN2,Metabolite sensing,Alex Muir
+SESN1,Metabolite sensing,Alex Muir
+C7ORF59,Metabolic signaling,Alex Muir
+LAMTOR3,Metabolic signaling,Alex Muir
+LAMTOR2,Metabolic signaling,Alex Muir
+LAMTOR1,Metabolic signaling,Alex Muir
+LAMTOR5,Metabolic signaling,Alex Muir
+RHEB,Metabolic signaling,Alex Muir
+CASTOR1,Metabolite sensing,Alex Muir
+RRAGA,Metabolic signaling,Alex Muir
+RRAGB,Metabolic signaling,Alex Muir
+RRAGC,Metabolic signaling,Alex Muir
+RRAGD,Metabolic signaling,Alex Muir
+NPRL2,Metabolic signaling,Alex Muir
+NPRL3,Metabolic signaling,Alex Muir
+DEPDC5,Metabolic signaling,Alex Muir
+RPTOR,Metabolic signaling,Alex Muir
+KPTN,Metabolic signaling,Alex Muir
+ITFG2,Metabolic signaling,Alex Muir
+C12ORF66,Metabolic signaling,Alex Muir
+SZT2,Metabolic signaling,Alex Muir
+MIOS,Metabolic signaling,Alex Muir
+WDR24,Metabolic signaling,Alex Muir
+WDR59,Metabolic signaling,Alex Muir
+SEH1L,Metabolic signaling,Alex Muir
+SEC13,Metabolic signaling,Alex Muir
+FLCN,Metabolic signaling,Alex Muir
+FNIP2,Metabolic signaling,Alex Muir
+GCN2,Metabolite sensing,Alex Muir
+FFAR1,Metabolite sensing,Alex Muir
+MVP,Vault,Alex Muir
+OR51E2,Metabolite sensing,Alex Muir
+OR51E1,Metabolite sensing,Alex Muir
+MMS19,Metals,Alex Muir
+CIAO1,Metals,Alex Muir
+NARFL,Metals,Alex Muir
+FAM96B,Metals,Alex Muir
+FFAR4,Metabolite sensing,Alex Muir
+HCAR1,Metabolite sensing,Alex Muir
+TAS1R1,Metabolite sensing,Alex Muir
+TAS1R3,Metabolite sensing,Alex Muir
+BAG3,Glycolysis,Alex Muir
+BMT2,Metabolite sensing,Alex Muir
+CD38,NAD,Alex Muir
+PQLC2,Small Molecule Transport,Alex Muir
+UBIAD1,Ubiquinone,Alex Muir
+TSPAN7,Small Molecule Transport,Alex Muir
+ATE1,Metabolic enzyme modifying protein,Alex Muir
+POLDIP2,Metabolite sensing,Alex Muir
+FABP2,Small Molecule Transport,Alex Muir
+FABP5,Small Molecule Transport,Alex Muir
+SQSTM1,Autophagy,Alex Muir
+MFSD12,Small Molecule Transport,Alex Muir
+SIDT2,Small Molecule Transport,Alex Muir
+GABARAP,Autophagy,Alex Muir
+GABARAPL1,Autophagy,Alex Muir
+GABARAPL2,Autophagy,Alex Muir
+MAP1LC3A,Autophagy,Alex Muir
+MAP1LC3B,Autophagy,Alex Muir
+MAP1LC3C,Autophagy,Alex Muir
+NFU1,Metals,Alex Muir
+BLOC1S1,Autophagy,Alex Muir
+PRKN,Mitochondrial morphology and function,Alex Muir
+PINK1,Mitochondrial morphology and function,Alex Muir
+PARK7,Mitochondrial morphology and function,Alex Muir
+GC,Small Molecule Transport,Alex Muir
+LAMP2,Autophagy,Alex Muir
+SCARB2,Lipoproteins,Alex Muir
+IREB2,Metals,Alex Muir
+TFRC,Metals,Alex Muir
+TFR2,Metals,Alex Muir
+ATOX1,Metals,Alex Muir
+LCN2,Metals,Alex Muir
+LTF,Metals,Alex Muir
+HEPHL1,Metals,Alex Muir
+FTL,Metals,Alex Muir
+TMPRSS6,Metals,Alex Muir
+HAMP,Metals,Alex Muir
+HFE,Metals,Alex Muir
+HFE2,Metals,Alex Muir
+APOOL,Lipoproteins,Alex Muir
+SPRK2,Metabolic enzyme modifying protein,Alex Muir
+RPS6KB1,Metabolic enzyme modifying protein,Alex Muir
+CHAC1,Glutathione,Alex Muir
+CHAC2,Glutathione,Alex Muir
+MT1H,Metals,Alex Muir
+MT1X,Metals,Alex Muir
+MT1F,Metals,Alex Muir
+MT1E,Metals,Alex Muir
+MT1A,Metals,Alex Muir
+MT2A,Metals,Alex Muir
+MT1M,Metals,Alex Muir
+MT1B,Metals,Alex Muir
+MT3,Metals,Alex Muir
+MT4,Metals,Alex Muir
+MT1G,Metals,Alex Muir
+NCOA4,Metals,Alex Muir
+BNIP3,Mitochondrial morphology and function,Alex Muir
+GPS2,Mitochondrial morphology and function,Alex Muir
+TM6SF2,Lipid droplet,Alex Muir
+GPRC6A,Metabolite sensing,Alex Muir
+C9ORF72,Metabolite sensing,Alex Muir
+SMCR8,Metabolite sensing,Alex Muir
+WDR41,Metabolite sensing,Alex Muir
+TM4SF5,Small Molecule Transport,Alex Muir
+GRM3,Metabolite sensing,Alex Muir
+ACP2,Other,"LysosomeDB, but not above"
+ACP5,Other,"LysosomeDB, but not above"
+ACPP,Other,"LysosomeDB, but not above"
+ANPEP,Peptide degradation,"LysosomeDB, but not above"
+SLC35F6,Small Molecule Transport,"LysosomeDB, but not above"
+CTSA,Peptide degradation,"LysosomeDB, but not above"
+CTSB,Peptide degradation,"LysosomeDB, but not above"
+CTSC,Peptide degradation,"LysosomeDB, but not above"
+CTSD,Peptide degradation,"LysosomeDB, but not above"
+CTSE,Peptide degradation,"LysosomeDB, but not above"
+CTSF,Peptide degradation,"LysosomeDB, but not above"
+CTSG,Peptide degradation,"LysosomeDB, but not above"
+CTSH,Peptide degradation,"LysosomeDB, but not above"
+CTSK,Peptide degradation,"LysosomeDB, but not above"
+CTSL1,Peptide degradation,"LysosomeDB, but not above"
+CTSL2,Peptide degradation,"LysosomeDB, but not above"
+CTSO,Peptide degradation,"LysosomeDB, but not above"
+CTSS,Peptide degradation,"LysosomeDB, but not above"
+CTSW,Peptide degradation,"LysosomeDB, but not above"
+CTSZ,Peptide degradation,"LysosomeDB, but not above"
+DPP4,Peptide degradation,"LysosomeDB, but not above"
+DPP7,Peptide degradation,"LysosomeDB, but not above"
+DRAM1,Autophagy,"LysosomeDB, but not above"
+DRAM2,Autophagy,"LysosomeDB, but not above"
+ENPEP,Peptide degradation,"LysosomeDB, but not above"
+GPR143,Metabolite sensing,"LysosomeDB, but not above"
+IFI30,Peptide degradation,"LysosomeDB, but not above"
+LAPTM4A,Small Molecule Transport,"LysosomeDB, but not above"
+LAPTM4B,Small Molecule Transport,"LysosomeDB, but not above"
+LGMN,Peptide degradation,"LysosomeDB, but not above"
+LMBRD1,B12,"LysosomeDB, but not above"
+LRP1,Lipoproteins,"LysosomeDB, but not above"
+LRP2,Lipoproteins,"LysosomeDB, but not above"
+M6PR,Autophagy,"LysosomeDB, but not above"
+IGF2R,Autophagy,"LysosomeDB, but not above"
+OSTM1,Ion Transport,"LysosomeDB, but not above"
+P2RY2,Metabolite sensing,"LysosomeDB, but not above"
+PGCP,Peptide degradation,"LysosomeDB, but not above"
+PLBD1,Membrane Lipid,"LysosomeDB, but not above"
+PLBD2,Membrane Lipid,"LysosomeDB, but not above"
+PSAP,Membrane Lipid,"LysosomeDB, but not above"
+RNF152,Metabolite sensing,"LysosomeDB, but not above"
+SERINC1,Membrane Lipid,"LysosomeDB, but not above"
+SERINC2,Membrane Lipid,"LysosomeDB, but not above"
+SERINC3,Membrane Lipid,"LysosomeDB, but not above"
+SERINC4,Membrane Lipid,"LysosomeDB, but not above"
+SERINC5,Membrane Lipid,"LysosomeDB, but not above"
+SLC48A1,Small Molecule Transport,"LysosomeDB, but not above"
+TMEM127,Lysosome,"LysosomeDB, but not above"
+TMEM175,Ion Transport,"LysosomeDB, but not above"
+TMEM55A,Membrane Lipid,"LysosomeDB, but not above"
+TMEM55B,Membrane Lipid,"LysosomeDB, but not above"
+TMEM63A,Ion Transport,"LysosomeDB, but not above"
+TMEM97,Cholesterol,"LysosomeDB, but not above"
+TSPAN1,Small Molecule Transport,"LysosomeDB, but not above"
+VMA21,Proton Transport,"LysosomeDB, but not above"
+PEX1,Peroxisome,"PeroxisomeDB, but not above"
+PEX10,Peroxisome,"PeroxisomeDB, but not above"
+PEX11A,Peroxisome,"PeroxisomeDB, but not above"
+PEX11G,Peroxisome,"PeroxisomeDB, but not above"
+PEX12,Peroxisome,"PeroxisomeDB, but not above"
+PEX13,Peroxisome,"PeroxisomeDB, but not above"
+PEX14,Peroxisome,"PeroxisomeDB, but not above"
+PEX16,Peroxisome,"PeroxisomeDB, but not above"
+PEX19,Peroxisome,"PeroxisomeDB, but not above"
+PEX2,Peroxisome,"PeroxisomeDB, but not above"
+PEX26,Peroxisome,"PeroxisomeDB, but not above"
+PEX3,Peroxisome,"PeroxisomeDB, but not above"
+PEX5L,Peroxisome,"PeroxisomeDB, but not above"
+PEX5,Peroxisome,"PeroxisomeDB, but not above"
+PEX6,Peroxisome,"PeroxisomeDB, but not above"
+PEX7,Peroxisome,"PeroxisomeDB, but not above"
+TMEM135,Mitochondrial morphology and function,"PeroxisomeDB, but not above"
+PAFAH1B2,Other,"ERDB, but not above"
+NPEPL1,Peptide degradation,"ERDB, but not above"
+NTPCR,Nucleotide,"ERDB, but not above"
+CHP1,Ion Transport,"ERDB, but not above"
+LDAH,Cholesterol,"ERDB, but not above"
+STBD1,Autophagy,"ERDB, but not above"
+ANO10,Ion Transport,"ERDB, but not above"
+ANO9,Ion Transport,"ERDB, but not above"
+ANO8,Ion Transport,"ERDB, but not above"
+ANO7,Ion Transport,"ERDB, but not above"
+ANO6,Ion Transport,"ERDB, but not above"
+ANO5,Ion Transport,"ERDB, but not above"
+ANO4,Ion Transport,"ERDB, but not above"
+ANO3,Ion Transport,"ERDB, but not above"
+ANO2,Ion Transport,"ERDB, but not above"
+ANO1,Ion Transport,"ERDB, but not above"
+TKFC,Cofactor,"ERDB, but not above"
+C11orf54,Other,"ERDB, but not above"
+PBLD,Other,"ERDB, but not above"
+SEC14L3,Membrane Lipid,"ERDB, but not above"
+MMGT1,Ion Transport,"ERDB, but not above"
+PRKACB,Metabolic enzyme modifying protein,"ERDB, but not above"
+G3BP1,Stress granule,"ERDB, but not above"
+G3BP2,Stress granule,"ERDB, but not above"
+DCTPP1,Nucleotide,"ERDB, but not above"
+SQOR,Sulfate,"ERDB, but not above"
+OGFOD3,aKG dependent enzymes,"ERDB, but not above"
+TMEM38B,Ion Transport,"ERDB, but not above"
+LRRC8B,Ion Transport,"ERDB, but not above"
+LRRC8A,Ion Transport,"ERDB, but not above"
+LRRC8C,Ion Transport,"ERDB, but not above"
+LRRC8D,Ion Transport,"ERDB, but not above"
+LRRC8E,Ion Transport,"ERDB, but not above"
+TXN,Redox,"ERDB, but not above"
+ERLIN1,Cholesterol,"ERDB, but not above"
+ERLIN2,Cholesterol,"ERDB, but not above"
+AUP1,Lipid droplet,"ERDB, but not above"
+HACD2,Membrane lipid,"ERDB, but not above"
+STIM1,Ion Transport,"ERDB, but not above"
+STIM2,Ion Transport,"ERDB, but not above"
+SLC9A3R2,Small Molecule Transport,"ERDB, but not above"
+GCHFR,BH4,"ERDB, but not above"
+HACD3,Membrane lipid,"ERDB, but not above"
+LDLRAP1,Lipoproteins,"ERDB, but not above"
+SLC9A3R1,Ion transport,"ERDB, but not above"
+TGM2,Other,"ERDB, but not above"
+HDLBP,Cholesterol,"ERDB, but not above"
+SELENBP1,Metabolite sensing,"ERDB, but not above"
+ECSIT,Complex I,"ERDB, but not above"
+APMAP,Other,"ERDB, but not above"
+SELENOI,Membrane lipid,"ERDB, but not above"
+GCN1,Metabolite sensing,"ERDB, but not above"
+SORL1,Lipoproteins,"ERDB, but not above"
+PDZK1,Small Molecule Transport,"ERDB, but not above"
+TTPA,Small Molecule Transport,"ERDB, but not above"
+LRPAP1,Lipoproteins,"ERDB, but not above"
+SEC14L2,Small Molecule Transport,"ERDB, but not above"
+GSTT2B,Glutathione,"ERDB, but not above"
+C14orf1,Cholesterol,"ERDB, but not above"
+TM9SF4,Proton transport,"ERDB, but not above"
+ESYT2,Membrane lipid,"ERDB, but not above"
+ESYT1,Membrane lipid,"ERDB, but not above"
+TMCO1,Ion transport,"ERDB, but not above"
+IFITM3,Membrane lipid,"ERDB, but not above"
+PIEZO2,Ion transport,"ERDB, but not above"
+TMEM109,Ion transport,"ERDB, but not above"
+VMP1,Autophagy,"ERDB, but not above"
+USMG5,Proton transport,"ERDB, but not above"
+SAMD8,Metabolite sensing,"ERDB, but not above"
+PM20D1,Proton transport,"ERDB, but not above"
+ATG2A,Autophagy,"LipidDropletProteome, but not above"
+CRACR2A,Ion transport,"LipidDropletProteome, but not above"
+FAF2,Lipid droplet,"LipidDropletProteome, but not above"
+NUS1,Glycan,"LipidDropletProteome, but not above"
+PITPNB,Membrane Lipid,"LipidDropletProteome, but not above"
+VPS13C,Mitochondrial morphology and function,"LipidDropletProteome, but not above"
+WIPI2,Autophagy,"LipidDropletProteome, but not above"
